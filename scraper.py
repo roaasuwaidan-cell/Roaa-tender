@@ -5,7 +5,7 @@ import os
 # Configuration
 URL = "https://www.nupco.com/en/tenders/"
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+CHAT_ID = os.getenv("CHAT_ID")
 FILE_NAME = "last_seen.txt"
 
 def send_telegram_message(message):
