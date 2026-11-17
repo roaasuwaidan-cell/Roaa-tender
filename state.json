@@ -1,0 +1,3599 @@
+{
+ "health": {
+  "alerted": false,
+  "failures": 0
+ },
+ "meta": {
+  "core_sha": "0505084dbe6c500f2b755c6ee13b8ffd767d8c59",
+  "last_list_count": 23,
+  "last_success": "2026-11-15T11:08:41Z",
+  "last_write": "2026-11-15T11:08:41Z"
+ },
+ "tenders": {
+  "NDP0846/26": {
+   "deadline": "Thu, 01/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0846/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Thu, 01/10/2026",
+    "opening": "Thu, 01/10/2026",
+    "status": "Direct Purchase"
+   },
+   "opening": "Thu, 01/10/2026",
+   "source": "list",
+   "status": "Direct Purchase",
+   "title": "تأمين بنود مستلزمات طبية للتجمعات الصحية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%aa%d8%ac%d9%85%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5/"
+  },
+  "NDP0848/26": {
+   "deadline": "Thu, 01/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0848/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Thu, 01/10/2026",
+    "opening": "Thu, 01/10/2026",
+    "status": "Direct Purchase"
+   },
+   "opening": "Thu, 01/10/2026",
+   "source": "list",
+   "status": "Direct Purchase",
+   "title": "تأمين بنود أدوية للتجمعات الصحية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%84%d8%aa%d8%ac%d9%85%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%a9/"
+  },
+  "NDP0849/26": {
+   "deadline": "Thu, 01/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0849/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Thu, 01/10/2026",
+    "opening": "Thu, 01/10/2026",
+    "status": "Direct Purchase"
+   },
+   "opening": "Thu, 01/10/2026",
+   "source": "list",
+   "status": "Direct Purchase",
+   "title": "تأمين بنود مستلزمات طبية للتجمعات الصحية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%aa%d8%ac%d9%85%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5-2/"
+  },
+  "NDP0852/26": {
+   "deadline": "Sat, 10/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0852/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sat, 10/10/2026",
+    "opening": "Sun, 04/10/2026",
+    "status": "Direct Purchase"
+   },
+   "opening": "Sun, 04/10/2026",
+   "source": "list",
+   "status": "Direct Purchase",
+   "title": "تأمين أجهزة طبية – رئاسة أمن الدولة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b1%d8%a6%d8%a7%d8%b3%d8%a9-%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a9/"
+  },
+  "NDP0873/26": {
+   "deadline": "Mon, 05/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0873/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 05/10/2026",
+    "opening": "Mon, 05/10/2026",
+    "status": "Direct Purchase"
+   },
+   "opening": "Mon, 05/10/2026",
+   "source": "list",
+   "status": "Direct Purchase",
+   "title": "تأمين بنود أدوية لوزارة الصحة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-2/"
+  },
+  "NDP0875/26": {
+   "deadline": "الخميس, 08/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0875/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الخميس, 08/10/2026",
+    "opening": "الخميس, 08/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الخميس, 08/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين مستلزمات الأنف والأذن والحنجرة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%86%d9%81-%d9%88%d8%a7%d9%84%d8%a3%d8%b0%d9%86-%d9%88%d8%a7%d9%84%d8%ad%d9%86%d8%ac%d8%b1%d8%a9/"
+  },
+  "NDP0876/26": {
+   "deadline": "الخميس, 08/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0876/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الخميس, 08/10/2026",
+    "opening": "الخميس, 08/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الخميس, 08/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين مستلزمات المعقمات",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b9%d9%82%d9%85%d8%a7%d8%aa-2/"
+  },
+  "NDP0881-26": {
+   "deadline": "Sun, 11/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0881-26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 11/10/2026",
+    "opening": "Sun, 11/10/2026",
+    "status": "Direct Purchase"
+   },
+   "opening": "Sun, 11/10/2026",
+   "source": "list",
+   "status": "Direct Purchase",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-3/"
+  },
+  "NDP0883/26": {
+   "deadline": "Sun, 04/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0883/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 04/10/2026",
+    "opening": "Sun, 04/10/2026",
+    "status": "Direct Purchase"
+   },
+   "opening": "Sun, 04/10/2026",
+   "source": "list",
+   "status": "Direct Purchase",
+   "title": "SRM – تأمين مستلزمات طبية للسوق الإلكتروني عبر",
+   "url": "https://www.nupco.com/tender/srm-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86/"
+  },
+  "NDP0885/26": {
+   "deadline": "Sun, 04/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0885/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 04/10/2026",
+    "opening": "Sun, 04/10/2026",
+    "status": "Direct Purchase"
+   },
+   "opening": "Sun, 04/10/2026",
+   "source": "list",
+   "status": "Direct Purchase",
+   "title": "تأمين أجهزة لبرنامج التغذية الإكلينيكية – جامعة الملك سعود بن عبدالعزيز للعلوم الصحية في الرياض",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%aa%d8%ba%d8%b0%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d9%83%d9%84%d9%8a%d9%86%d9%8a/"
+  },
+  "NDP0886/26": {
+   "deadline": "Sun, 04/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0886/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 04/10/2026",
+    "opening": "Sun, 04/10/2026",
+    "status": "Direct Purchase"
+   },
+   "opening": "Sun, 04/10/2026",
+   "source": "list",
+   "status": "Direct Purchase",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-5/"
+  },
+  "NDP0887/26": {
+   "deadline": "Mon, 05/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0887/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 05/10/2026",
+    "opening": "Mon, 05/10/2026",
+    "status": "Direct Purchase"
+   },
+   "opening": "Mon, 05/10/2026",
+   "source": "list",
+   "status": "Direct Purchase",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-6/"
+  },
+  "NDP0888/26": {
+   "deadline": "Mon, 05/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0888/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 05/10/2026",
+    "opening": "Mon, 05/10/2026",
+    "status": "Direct Purchase"
+   },
+   "opening": "Mon, 05/10/2026",
+   "source": "list",
+   "status": "Direct Purchase",
+   "title": "تأمين أجهزة الطب الإتصالي لصالح تجمع المدينة المنورة الصحي",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84%d8%b7%d8%a8-%d8%a7%d9%84%d8%a5%d8%aa%d8%b5%d8%a7%d9%84%d9%8a-%d9%84%d8%b5%d8%a7%d9%84%d8%ad-%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7/"
+  },
+  "NDP0889/26": {
+   "deadline": "Wed, 07/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0889/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 07/10/2026",
+    "opening": "Wed, 07/10/2026",
+    "status": "Direct Purchase"
+   },
+   "opening": "Wed, 07/10/2026",
+   "source": "list",
+   "status": "Direct Purchase",
+   "title": "تأمين مستلزمات العيون والجلدية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%8a%d9%88%d9%86-%d9%88%d8%a7%d9%84%d8%ac%d9%84%d8%af%d9%8a%d8%a9/"
+  },
+  "NDP0890/26": {
+   "deadline": "الأربعاء, 07/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0890/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأربعاء, 07/10/2026",
+    "opening": "الأربعاء, 07/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأربعاء, 07/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين مستلزمات العلاج الطبيعي",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d8%ac-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a/"
+  },
+  "NDP0891/26": {
+   "deadline": "الأحد, 11/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0891/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأحد, 11/10/2026",
+    "opening": "الأحد, 11/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأحد, 11/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين مستلزمات التعقيم والمناظير",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b9%d9%82%d9%8a%d9%85-%d9%88%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b8%d9%8a%d8%b1/"
+  },
+  "NDP0892/26": {
+   "deadline": "الأثنين, 12/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0892/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأثنين, 12/10/2026",
+    "opening": "الأثنين, 12/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأثنين, 12/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين مستلزمات طبية عامة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9/"
+  },
+  "NDP0893/26": {
+   "deadline": "الثلاثاء, 06/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0893/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الثلاثاء, 06/10/2026",
+    "opening": "الثلاثاء, 06/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الثلاثاء, 06/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1/"
+  },
+  "NDP0894/26": {
+   "deadline": "الأربعاء, 07/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0894/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأربعاء, 07/10/2026",
+    "opening": "الأربعاء, 07/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأربعاء, 07/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين أجهزة طبية – وصفتي",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%88%d8%b5%d9%81%d8%aa%d9%8a/"
+  },
+  "NDP0895/26": {
+   "deadline": "الأربعاء, 07/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0895/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأربعاء, 07/10/2026",
+    "opening": "الأربعاء, 07/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأربعاء, 07/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين مستلزمات طبية عامة عاجلة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9-%d8%b9%d8%a7%d8%ac%d9%84%d8%a9/"
+  },
+  "NDP0896/26": {
+   "deadline": "الأربعاء, 07/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0896/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأربعاء, 07/10/2026",
+    "opening": "الأربعاء, 07/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأربعاء, 07/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين مستلزمات طبية عامة عاجلة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9-%d8%b9%d8%a7%d8%ac%d9%84%d8%a9-2/"
+  },
+  "NDP0897/26": {
+   "deadline": "الخميس, 08/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0897/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الخميس, 08/10/2026",
+    "opening": "الخميس, 08/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الخميس, 08/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "INUPCO – تأمين مستلزمات طبية منصة السوق الألكتروني عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a3%d9%84%d9%83/"
+  },
+  "NDP0898/26": {
+   "deadline": "الخميس, 08/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0898/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الخميس, 08/10/2026",
+    "opening": "الخميس, 08/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الخميس, 08/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "INUPCO – تأمين مستلزمات طبية للسوق الإلكتروني عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86/"
+  },
+  "NDP0899/26": {
+   "deadline": "الخميس, 08/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0899/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الخميس, 08/10/2026",
+    "opening": "الخميس, 08/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الخميس, 08/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "INUPCO – تأمين بنود مختبرات للسوق الإلكتروني عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a/"
+  },
+  "NDP0900/26": {
+   "deadline": "الأحد, 11/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0900/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأحد, 11/10/2026",
+    "opening": "الأحد, 11/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأحد, 11/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين مستلزمات طبية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-3/"
+  },
+  "NDP0901/26": {
+   "deadline": "الأحد, 11/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0901/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأحد, 11/10/2026",
+    "opening": "الأحد, 11/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأحد, 11/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين بنود أدوية لجامعة الملك عبدالعزيز",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2/"
+  },
+  "NDP0902/26": {
+   "deadline": "الأحد, 11/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0902/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأحد, 11/10/2026",
+    "opening": "الأحد, 11/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأحد, 11/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "INUPCO – تأمين بنود مستلزمات طبية للسوق الإلكتروني عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83/"
+  },
+  "NDP0903/26": {
+   "deadline": "الأثنين, 05/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0903/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأثنين, 05/10/2026",
+    "opening": "الأثنين, 05/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأثنين, 05/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تقديم نتائج فحوصات مخبرية عن طريق إرسالها لمختبرات مرجعية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d9%81%d8%ad%d9%88%d8%b5%d8%a7%d8%aa-%d9%85%d8%ae%d8%a8%d8%b1%d9%8a%d8%a9-%d8%b9%d9%86-%d8%b7%d8%b1%d9%8a%d9%82-%d8%a5%d8%b1%d8%b3%d8%a7/"
+  },
+  "NDP0905/26": {
+   "deadline": "الأحد, 11/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0905/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأحد, 11/10/2026",
+    "opening": "الأحد, 11/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأحد, 11/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين مستلزمات طبية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-4/"
+  },
+  "NDP0906/26": {
+   "deadline": "الأثنين, 19/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0906/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأثنين, 19/10/2026",
+    "opening": "الأثنين, 19/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأثنين, 19/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa/"
+  },
+  "NDP0907/26": {
+   "deadline": "الأثنين, 05/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0907/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأثنين, 05/10/2026",
+    "opening": "الأثنين, 05/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأثنين, 05/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-2/"
+  },
+  "NDP0908/26": {
+   "deadline": "الأثنين, 12/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0908/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأثنين, 12/10/2026",
+    "opening": "الأثنين, 12/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأثنين, 12/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين مستلزمات طبية منصة السوق الإلكتروني",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa/"
+  },
+  "NDP0909/26": {
+   "deadline": "الأثنين, 12/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0909/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأثنين, 12/10/2026",
+    "opening": "الأثنين, 12/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأثنين, 12/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "تأمين مستلزمات طبية منصة السوق الإلكتروني",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa-2/"
+  },
+  "NDP0910-26": {
+   "deadline": "الثلاثاء, 13/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0910-26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الثلاثاء, 13/10/2026",
+    "opening": "الثلاثاء, 13/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الثلاثاء, 13/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-4/"
+  },
+  "NDP0911/26": {
+   "deadline": "الأربعاء, 14/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NDP0911/26",
+   "last_seen": "2026-10-11T09:41:25Z",
+   "notified": {
+    "deadline": "الأربعاء, 14/10/2026",
+    "opening": "الأربعاء, 14/10/2026",
+    "status": "الشراء المباشر"
+   },
+   "opening": "الأربعاء, 14/10/2026",
+   "source": "list",
+   "status": "الشراء المباشر",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-7/"
+  },
+  "NDP0912/26": {
+   "deadline": "",
+   "first_seen": "2026-10-22T13:52:36Z",
+   "id": "NDP0912/26",
+   "last_seen": "2026-10-27T23:50:06Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين أجهزة طبية– مستشفى الملك فهد التخصصي بالدمام",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%85%d8%b3%d8%aa%d8%b4%d9%81%d9%89-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%81%d9%87%d8%af-%d8%a7%d9%84/"
+  },
+  "NDP0917/26": {
+   "deadline": "",
+   "first_seen": "2026-10-23T09:30:28Z",
+   "id": "NDP0917/26",
+   "last_seen": "2026-10-25T01:15:36Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود مستلزمات طبية للسوق الإلكتروني",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83/"
+  },
+  "NDP0918/26": {
+   "deadline": "",
+   "first_seen": "2026-10-13T09:31:17Z",
+   "id": "NDP0918/26",
+   "last_seen": "2026-10-26T01:16:39Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين مستلزمات العلاج التنفسي والتخدير",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d8%ac-%d8%a7%d9%84%d8%aa%d9%86%d9%81%d8%b3%d9%8a-%d9%88%d8%a7%d9%84%d8%aa%d8%ae%d8%af/"
+  },
+  "NDP0920/26": {
+   "deadline": "",
+   "first_seen": "2026-10-13T09:31:17Z",
+   "id": "NDP0920/26",
+   "last_seen": "2026-10-27T23:50:06Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين بنود مستلزمات طبية عامة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9/"
+  },
+  "NDP0931/26": {
+   "deadline": "",
+   "first_seen": "2026-10-22T13:52:36Z",
+   "id": "NDP0931/26",
+   "last_seen": "2026-10-25T01:15:36Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين Autoclave",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-autoclave/"
+  },
+  "NDP0935/26": {
+   "deadline": "",
+   "first_seen": "2026-10-23T09:30:28Z",
+   "id": "NDP0935/26",
+   "last_seen": "2026-10-27T23:50:06Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-4/"
+  },
+  "NDP0936/26": {
+   "deadline": "",
+   "first_seen": "2026-10-22T13:52:36Z",
+   "id": "NDP0936/26",
+   "last_seen": "2026-10-27T23:50:06Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين أجهزة طبية لمشروع توطين علاج الجينات بمركز الملك عبدالله العالمي للأبحاث الطبية بالرياض-7",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%aa%d9%88%d8%b7%d9%8a%d9%86-%d8%b9%d9%84%d8%a7%d8%ac-%d8%a7%d9%84%d8%ac-2/"
+  },
+  "NDP0937/26": {
+   "deadline": "",
+   "first_seen": "2026-10-23T09:30:28Z",
+   "id": "NDP0937/26",
+   "last_seen": "2026-10-27T23:50:06Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-5/"
+  },
+  "NDP0938/26": {
+   "deadline": "",
+   "first_seen": "2026-10-23T09:30:28Z",
+   "id": "NDP0938/26",
+   "last_seen": "2026-10-31T23:26:27Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين مستلزمات طبية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-4/"
+  },
+  "NDP0939/26": {
+   "deadline": "",
+   "first_seen": "2026-10-20T07:41:40Z",
+   "id": "NDP0939/26",
+   "last_seen": "2026-10-25T01:15:36Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "INUPCO – تأمين مستلزمات طبية عبر",
+   "url": "https://www.nupco.com/tenders/tenders-list/"
+  },
+  "NDP0940-26": {
+   "deadline": "",
+   "first_seen": "2026-10-23T09:30:28Z",
+   "id": "NDP0940-26",
+   "last_seen": "2026-10-27T23:50:06Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-6/"
+  },
+  "NDP0941/26": {
+   "deadline": "",
+   "first_seen": "2026-10-20T13:37:42Z",
+   "id": "NDP0941/26",
+   "last_seen": "2026-10-27T23:50:06Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين مستلزمات طبية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-5/"
+  },
+  "NDP0942/26": {
+   "deadline": "",
+   "first_seen": "2026-10-23T09:30:28Z",
+   "id": "NDP0942/26",
+   "last_seen": "2026-10-27T23:50:06Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين مستلزمات طبية عامة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9/"
+  },
+  "NDP0943-26": {
+   "deadline": "",
+   "first_seen": "2026-10-23T09:30:28Z",
+   "id": "NDP0943-26",
+   "last_seen": "2026-10-31T23:26:27Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa/"
+  },
+  "NDP0944/26": {
+   "deadline": "",
+   "first_seen": "2026-10-23T09:30:28Z",
+   "id": "NDP0944/26",
+   "last_seen": "2026-10-27T23:50:06Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1/"
+  },
+  "NDP0945/26": {
+   "deadline": "",
+   "first_seen": "2026-10-21T07:45:54Z",
+   "id": "NDP0945/26",
+   "last_seen": "2026-11-01T09:58:01Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين بنود مستلزمات طبية عامة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9-2/"
+  },
+  "NDP0946/26": {
+   "deadline": "",
+   "first_seen": "2026-10-21T07:45:54Z",
+   "id": "NDP0946/26",
+   "last_seen": "2026-11-01T23:40:05Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين بنود مختبرات طبية عامة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9/"
+  },
+  "NDP0948/26": {
+   "deadline": "",
+   "first_seen": "2026-10-22T13:52:36Z",
+   "id": "NDP0948/26",
+   "last_seen": "2026-11-08T00:44:21Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين بنود المستلزمات الطبية الحج 1448",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%ac-1448/"
+  },
+  "NDP0949/26": {
+   "deadline": "",
+   "first_seen": "2026-10-25T06:17:24Z",
+   "id": "NDP0949/26",
+   "last_seen": "2026-10-31T23:26:27Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-2/"
+  },
+  "NDP0950/26": {
+   "deadline": "",
+   "first_seen": "2026-10-22T13:52:36Z",
+   "id": "NDP0950/26",
+   "last_seen": "2026-10-31T23:26:27Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "INUPCO – تأمين بنود مختبرات طبية للسوق الإلكتروني عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa/"
+  },
+  "NDP0951/26": {
+   "deadline": "",
+   "first_seen": "2026-10-26T06:26:53Z",
+   "id": "NDP0951/26",
+   "last_seen": "2026-11-01T23:40:05Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين مختبرات طبية منصة السوق الألكتروني",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a3%d9%84%d9%83%d8%aa/"
+  },
+  "NDP0952/26": {
+   "deadline": "",
+   "first_seen": "2026-10-22T13:52:36Z",
+   "id": "NDP0952/26",
+   "last_seen": "2026-10-31T23:26:27Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "INUPCO – تأمين بنود مستلزمات طبية للسوق الإلكتروني عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83-2/"
+  },
+  "NDP0954/26": {
+   "deadline": "",
+   "first_seen": "2026-10-26T06:26:53Z",
+   "id": "NDP0954/26",
+   "last_seen": "2026-11-01T23:40:05Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين مستلزامات طبية منصة السوق الألكتروني",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d8%a7%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a3%d9%84/"
+  },
+  "NDP0955/26": {
+   "deadline": "",
+   "first_seen": "2026-10-26T06:26:53Z",
+   "id": "NDP0955/26",
+   "last_seen": "2026-10-31T23:26:27Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين مستلزمات طبية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-3/"
+  },
+  "NDP0956/26": {
+   "deadline": "",
+   "first_seen": "2026-10-26T14:21:48Z",
+   "id": "NDP0956/26",
+   "last_seen": "2026-11-01T23:40:05Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود صفرية محاليل المختبرات الطبية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%b5%d9%81%d8%b1%d9%8a%d8%a9-%d9%85%d8%ad%d8%a7%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7/"
+  },
+  "NDP0959/26": {
+   "deadline": "",
+   "first_seen": "2026-10-29T05:56:23Z",
+   "id": "NDP0959/26",
+   "last_seen": "2026-11-04T23:44:44Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود الخاصة بالتحاليل الخارجية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d8%a9-%d8%a8%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9/"
+  },
+  "NDP0960/26": {
+   "deadline": "",
+   "first_seen": "2026-10-28T05:52:45Z",
+   "id": "NDP0960/26",
+   "last_seen": "2026-11-08T00:44:21Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "SRM – تأمين بنود أدوية بالشراء المباشر لتغطية احتياج منصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/srm-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%84%d8%aa%d8%ba/"
+  },
+  "NDP0961/26": {
+   "deadline": "",
+   "first_seen": "2026-10-28T05:52:45Z",
+   "id": "NDP0961/26",
+   "last_seen": "2026-11-08T00:44:21Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "SRM – تأمين بنود مستلزمات طبية بالشراء المباشر لتغطية احتياج منصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/srm-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85/"
+  },
+  "NDP0962/26": {
+   "deadline": "",
+   "first_seen": "2026-10-28T05:52:45Z",
+   "id": "NDP0962/26",
+   "last_seen": "2026-11-08T00:44:21Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "SRM – تأمين بنود مختبرات طبية بالشراء المباشر لتغطية احتياج منصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/srm-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%a8/"
+  },
+  "NDP0963/26": {
+   "deadline": "",
+   "first_seen": "2026-10-28T05:52:45Z",
+   "id": "NDP0963/26",
+   "last_seen": "2026-11-08T00:44:21Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "SRM-تأمين بنود أجهزة طبية بالشراء المباشر لتغطية احتياج منصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/srm-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4/"
+  },
+  "NDP0964/26": {
+   "deadline": "",
+   "first_seen": "2026-10-15T13:30:22Z",
+   "id": "NDP0964/26",
+   "last_seen": "2026-11-04T23:44:44Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "INUPCO – تأمين مستلزمات طبية عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a8%d8%b1/"
+  },
+  "NDP0965/26": {
+   "deadline": "",
+   "first_seen": "2026-10-28T13:07:43Z",
+   "id": "NDP0965/26",
+   "last_seen": "2026-11-04T23:44:44Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود أدوية لوزارة الصحة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-2/"
+  },
+  "NDP0966/26": {
+   "deadline": "",
+   "first_seen": "2026-10-29T13:13:42Z",
+   "id": "NDP0966/26",
+   "last_seen": "2026-11-04T23:44:44Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود مستلزمات طبية للسوق الإلكتروني",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83/"
+  },
+  "NDP0968/26": {
+   "deadline": "",
+   "first_seen": "2026-11-02T11:36:21Z",
+   "id": "NDP0968/26",
+   "last_seen": "2026-11-10T02:14:10Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين أجهزة التغليف الآلي لمدينة الملك عبدالعزيز الطبية بالرياض ومستشفى الملك عبدالعزيز بالإحساء والأمير محمد بن عبدالعزيز بالمدينة المنورة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84%d8%aa%d8%ba%d9%84%d9%8a%d9%81-%d8%a7%d9%84%d8%a2%d9%84%d9%8a-%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d9%84/"
+  },
+  "NDP0969/26": {
+   "deadline": "",
+   "first_seen": "2026-11-02T11:36:21Z",
+   "id": "NDP0969/26",
+   "last_seen": "2026-11-04T23:44:44Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "طلب عاجل – تأمين وتوريد اجهزة طبية لمدينة الملك عبدالعزيز الطبية",
+   "url": "https://www.nupco.com/tender/%d8%b7%d9%84%d8%a8-%d8%b9%d8%a7%d8%ac%d9%84-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%88%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d8%a7%d8%ac%d9%87%d8%b2%d8%a9-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%85%d8%af%d9%8a%d9%86/"
+  },
+  "NDP0970/26": {
+   "deadline": "",
+   "first_seen": "2026-11-02T11:36:21Z",
+   "id": "NDP0970/26",
+   "last_seen": "2026-11-10T02:14:10Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين النطق والتخاطب بمستشفى الملك عبدالله الجامعي",
+   "url": "https://www.nupco.com/tender/%d8%b7%d9%84%d8%a8-%d8%b9%d8%a7%d8%ac%d9%84-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%88%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d8%a7%d8%ac%d9%87%d8%b2%d8%a9-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%85%d8%af%d9%8a%d9%86-2/"
+  },
+  "NDP0972/26": {
+   "deadline": "",
+   "first_seen": "2026-10-29T13:13:42Z",
+   "id": "NDP0972/26",
+   "last_seen": "2026-11-04T23:44:44Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1/"
+  },
+  "NDP0973/26": {
+   "deadline": "",
+   "first_seen": "2026-10-29T13:13:42Z",
+   "id": "NDP0973/26",
+   "last_seen": "2026-11-04T23:44:44Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود مستلزمات طبية طارئة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b7%d8%a7%d8%b1%d8%a6%d8%a9/"
+  },
+  "NDP0974/26": {
+   "deadline": "",
+   "first_seen": "2026-10-29T13:13:42Z",
+   "id": "NDP0974/26",
+   "last_seen": "2026-11-04T23:44:44Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود الادوية المنقذة للحياة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a7%d9%84%d8%a7%d8%af%d9%88%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d9%82%d8%b0%d8%a9-%d9%84%d9%84%d8%ad%d9%8a%d8%a7%d8%a9/"
+  },
+  "NDP0975/26": {
+   "deadline": "",
+   "first_seen": "2026-11-01T06:19:06Z",
+   "id": "NDP0975/26",
+   "last_seen": "2026-11-08T00:44:21Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-2/"
+  },
+  "NDP0976/26": {
+   "deadline": "",
+   "first_seen": "2026-10-29T13:13:42Z",
+   "id": "NDP0976/26",
+   "last_seen": "2026-11-04T23:44:44Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "توفير بنود عاجلة للمختبرات الطبية لصالح وزارة الصحة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%81%d9%8a%d8%b1-%d8%a8%d9%86%d9%88%d8%af-%d8%b9%d8%a7%d8%ac%d9%84%d8%a9-%d9%84%d9%84%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d8%b5%d8%a7/"
+  },
+  "NDP0977/26": {
+   "deadline": "",
+   "first_seen": "2026-11-01T06:19:06Z",
+   "id": "NDP0977/26",
+   "last_seen": "2026-11-11T06:38:54Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود مستلزمات طبية عامة عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9-%d8%b9%d8%a8%d8%b1/"
+  },
+  "NDP0978/26": {
+   "deadline": "",
+   "first_seen": "2026-11-01T09:58:01Z",
+   "id": "NDP0978/26",
+   "last_seen": "2026-11-10T23:28:38Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود مختبرات للسوق الإلكتروني عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a/"
+  },
+  "NDP0979/26": {
+   "deadline": "",
+   "first_seen": "2026-11-01T09:58:01Z",
+   "id": "NDP0979/26",
+   "last_seen": "2026-11-10T23:28:38Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود مستلزمات طبية للسوق الإلكتروني عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83-2/"
+  },
+  "NDP0980-26": {
+   "deadline": "",
+   "first_seen": "2026-11-02T06:20:16Z",
+   "id": "NDP0980-26",
+   "last_seen": "2026-11-12T03:52:25Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-3/"
+  },
+  "NDP0980/26": {
+   "deadline": "",
+   "first_seen": "2026-11-01T09:58:01Z",
+   "id": "NDP0980/26",
+   "last_seen": "2026-11-01T23:40:05Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود مستلزمات طبية عامة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9/"
+  },
+  "NDP0981/26": {
+   "deadline": "",
+   "first_seen": "2026-11-01T14:19:29Z",
+   "id": "NDP0981/26",
+   "last_seen": "2026-11-10T02:14:10Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود مستلزمات طبية عامة – عاجلة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9-%d8%b9%d8%a7%d8%ac%d9%84%d8%a9/"
+  },
+  "NDP0982/26": {
+   "deadline": "",
+   "first_seen": "2026-11-02T06:20:16Z",
+   "id": "NDP0982/26",
+   "last_seen": "2026-11-04T23:44:44Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود مستلزمات طبية عامة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9/"
+  },
+  "NDP0983/26": {
+   "deadline": "",
+   "first_seen": "2026-11-02T11:36:21Z",
+   "id": "NDP0983/26",
+   "last_seen": "2026-11-08T00:44:21Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود مستلزمات طبية – عاجلة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a7%d8%ac%d9%84%d8%a9/"
+  },
+  "NDP0984/26": {
+   "deadline": "",
+   "first_seen": "2026-11-02T11:36:21Z",
+   "id": "NDP0984/26",
+   "last_seen": "2026-11-10T02:14:10Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين مستلزمات الغسيل الكلوي",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%ba%d8%b3%d9%8a%d9%84-%d8%a7%d9%84%d9%83%d9%84%d9%88%d9%8a/"
+  },
+  "NDP0986/26": {
+   "deadline": "",
+   "first_seen": "2026-11-03T15:16:07Z",
+   "id": "NDP0986/26",
+   "last_seen": "2026-11-10T23:28:38Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود مختبرات",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa/"
+  },
+  "NDP0987/26": {
+   "deadline": "",
+   "first_seen": "2026-11-03T15:16:07Z",
+   "id": "NDP0987/26",
+   "last_seen": "2026-11-10T02:14:10Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود مستلزمات طبية لمنصة السوق الإلكتروني عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82/"
+  },
+  "NDP0988-26": {
+   "deadline": "",
+   "first_seen": "2026-11-04T18:02:15Z",
+   "id": "NDP0988-26",
+   "last_seen": "2026-11-12T03:52:25Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-4/"
+  },
+  "NDP0989-26": {
+   "deadline": "",
+   "first_seen": "2026-11-08T07:27:32Z",
+   "id": "NDP0989-26",
+   "last_seen": "2026-11-12T03:52:25Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1/"
+  },
+  "NDP0990-26": {
+   "deadline": "",
+   "first_seen": "2026-11-08T07:27:32Z",
+   "id": "NDP0990-26",
+   "last_seen": "2026-11-10T02:14:10Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-2/"
+  },
+  "NDP0992/26": {
+   "deadline": "",
+   "first_seen": "2026-11-05T15:34:10Z",
+   "id": "NDP0992/26",
+   "last_seen": "2026-11-12T03:52:25Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود مستلزمات طبية للسوق الإلكتروني عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83/"
+  },
+  "NDP0993-26": {
+   "deadline": "",
+   "first_seen": "2026-11-08T15:19:51Z",
+   "id": "NDP0993-26",
+   "last_seen": "2026-11-10T23:28:38Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-5/"
+  },
+  "NDP0994/26": {
+   "deadline": "",
+   "first_seen": "2026-11-09T08:04:05Z",
+   "id": "NDP0994/26",
+   "last_seen": "2026-11-12T03:52:25Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "SRM – تأمين بنود أدوية بالشراء المباشر لتغطية احتياج منصة السوق الالكتروني",
+   "url": "https://www.nupco.com/tender/srm-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%84%d8%aa%d8%ba/"
+  },
+  "NDP0995/26": {
+   "deadline": "",
+   "first_seen": "2026-11-09T08:04:05Z",
+   "id": "NDP0995/26",
+   "last_seen": "2026-11-12T03:52:25Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "SRM – تأمين بنود مستلزمات بالشراء المباشر لتغطية احتياج السوق الالكتروني عبر",
+   "url": "https://www.nupco.com/tender/srm-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/"
+  },
+  "NDP0996/26": {
+   "deadline": "",
+   "first_seen": "2026-11-09T18:53:51Z",
+   "id": "NDP0996/26",
+   "last_seen": "2026-11-12T03:52:25Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "SRM – تأمين بنود مختبرات بالشراء المباشر لتغطية احتياج منصة السوق الالكتروني عبر",
+   "url": "https://www.nupco.com/tender/srm-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%84/"
+  },
+  "NDP0997/26": {
+   "deadline": "",
+   "first_seen": "2026-11-09T18:53:51Z",
+   "id": "NDP0997/26",
+   "last_seen": "2026-11-12T03:52:25Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "SRM – تأمين بنود أجهزة بالشراء المباشر لتغطية احتياج منصة السوق الالكتروني عبر",
+   "url": "https://www.nupco.com/tender/srm-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%84%d8%aa%d8%ba/"
+  },
+  "NDP0999/26": {
+   "deadline": "",
+   "first_seen": "2026-11-10T17:55:32Z",
+   "id": "NDP0999/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "توفير بنود عاجلة للمختبرات الطبية لصالح وزارة الصحة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%81%d9%8a%d8%b1-%d8%a8%d9%86%d9%88%d8%af-%d8%b9%d8%a7%d8%ac%d9%84%d8%a9-%d9%84%d9%84%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d8%b5%d8%a7/"
+  },
+  "NDP1000/26": {
+   "deadline": "",
+   "first_seen": "2026-11-10T10:00:11Z",
+   "id": "NDP1000/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود الادوية المنقذة للحياة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a7%d9%84%d8%a7%d8%af%d9%88%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d9%82%d8%b0%d8%a9-%d9%84%d9%84%d8%ad%d9%8a%d8%a7%d8%a9/"
+  },
+  "NDP1001/26": {
+   "deadline": "",
+   "first_seen": "2026-11-10T10:00:11Z",
+   "id": "NDP1001/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "منافسة توريد وتركيب واختبار وتشغيل نظام متكامل للكروماتوغرافيا السائلة المقترنة بمطياف الكتلة الترادفي عالي الدقة، مزود بإمكانية فصل الأيونات لدعم التحليلات الحيوية عالية الإنتاجية بمركز الملك عبدالله العالمي للأبحاث الطبية بالرياض",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a8-%d9%88%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d9%88%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d9%86%d8%b8/"
+  },
+  "NDP1002/26": {
+   "deadline": "",
+   "first_seen": "2026-11-10T10:00:11Z",
+   "id": "NDP1002/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "Radiation Quality Assurance Kit including Pro-slit camera and Pro dent CT phantom Request Number تأمين",
+   "url": "https://www.nupco.com/tender/radiation-quality-assurance-kit-including-pro-slit-camera-and-pro-dent-ct-phantom-request-number-%d8%aa%d8%a3%d9%85%d9%8a%d9%86/"
+  },
+  "NDP1003/26": {
+   "deadline": "",
+   "first_seen": "2026-11-10T17:55:32Z",
+   "id": "NDP1003/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين مستلزمات الأنف والأذن والحنجرة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%86%d9%81-%d9%88%d8%a7%d9%84%d8%a3%d8%b0%d9%86-%d9%88%d8%a7%d9%84%d8%ad%d9%86%d8%ac%d8%b1%d8%a9/"
+  },
+  "NDP1004/26": {
+   "deadline": "",
+   "first_seen": "2026-11-10T17:55:32Z",
+   "id": "NDP1004/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين مستلزمات الأنف والأذن والحنجرة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%86%d9%81-%d9%88%d8%a7%d9%84%d8%a3%d8%b0%d9%86-%d9%88%d8%a7%d9%84%d8%ad%d9%86%d8%ac%d8%b1%d8%a9-2/"
+  },
+  "NDP1005/26": {
+   "deadline": "",
+   "first_seen": "2026-11-11T06:38:54Z",
+   "id": "NDP1005/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين مستلزمات طبية منصة السوق الألكتروني",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a3%d9%84%d9%83/"
+  },
+  "NDP1006/26": {
+   "deadline": "",
+   "first_seen": "2026-11-10T17:55:32Z",
+   "id": "NDP1006/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود مستلزمات طبية للسوق الإلكتروني عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83-3/"
+  },
+  "NDP1007/26": {
+   "deadline": "",
+   "first_seen": "2026-11-10T17:55:32Z",
+   "id": "NDP1007/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "LAB MOBILE تأمين",
+   "url": "https://www.nupco.com/tender/lab-mobile-%d8%aa%d8%a3%d9%85%d9%8a%d9%86/"
+  },
+  "NDP1008-26": {
+   "deadline": "",
+   "first_seen": "2026-11-10T17:55:32Z",
+   "id": "NDP1008-26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-2/"
+  },
+  "NDP1009/26": {
+   "deadline": "",
+   "first_seen": "2026-11-11T06:38:54Z",
+   "id": "NDP1009/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين مستلزمات طبية عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a8%d8%b1/"
+  },
+  "NDP1011/26": {
+   "deadline": "",
+   "first_seen": "2026-11-11T15:21:12Z",
+   "id": "NDP1011/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين مستلزمات طبية عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a8%d8%b1-2/"
+  },
+  "NDP1012/26": {
+   "deadline": "",
+   "first_seen": "2026-11-11T15:21:12Z",
+   "id": "NDP1012/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين مستلزمات السوق الإلكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%85%d9%86-%d8%ae/"
+  },
+  "NDP1013/26": {
+   "deadline": "",
+   "first_seen": "2026-11-11T15:21:12Z",
+   "id": "NDP1013/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين مستلزمات السوق الإلكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%85%d9%86-%d8%ae-2/"
+  },
+  "NDP1014/26": {
+   "deadline": "",
+   "first_seen": "2026-11-11T15:21:12Z",
+   "id": "NDP1014/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين مستلزمات السوق الإلكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%85%d9%86-%d8%ae-3/"
+  },
+  "NDP1017/26": {
+   "deadline": "",
+   "first_seen": "2026-11-12T12:52:06Z",
+   "id": "NDP1017/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "طلب بالشراء المباشر تأمين أجهزة طبية للشؤون الصحية بوزارة الحرس الوطني المرحلة الثانية لعام 2026",
+   "url": "https://www.nupco.com/tender/%d8%b7%d9%84%d8%a8-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84/"
+  },
+  "NDP1018/26": {
+   "deadline": "",
+   "first_seen": "2026-11-12T12:52:06Z",
+   "id": "NDP1018/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "Refrigerator Pass Thru 142202600001771",
+   "url": "https://www.nupco.com/tenders/tenders-list/"
+  },
+  "NDP1019/26": {
+   "deadline": "",
+   "first_seen": "2026-11-12T12:52:06Z",
+   "id": "NDP1019/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "Robotic Loading & Dispensing Multiple Medication System 142202600002758",
+   "url": "https://www.nupco.com/tender/robotic-loading-dispensing-multiple-medication-system-142202600002758/"
+  },
+  "NDP1021/26": {
+   "deadline": "",
+   "first_seen": "2026-11-11T15:21:12Z",
+   "id": "NDP1021/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود مستلزمات طبية طارئة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b7%d8%a7%d8%b1%d8%a6%d8%a9/"
+  },
+  "NDP1022-26": {
+   "deadline": "",
+   "first_seen": "2026-11-12T12:52:06Z",
+   "id": "NDP1022-26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-5/"
+  },
+  "NDP1023/26": {
+   "deadline": "",
+   "first_seen": "2026-11-12T12:52:06Z",
+   "id": "NDP1023/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "منافسة توريد وتركيب واختبار وتشغيل جهاز مصفوفة أقطاب كهرائية دقيقة عالية الكثافة لمركز الملك عبدالله العالمي بجدة",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a8-%d9%88%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d9%88%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d8%ac%d9%87/"
+  },
+  "NDP1024/26": {
+   "deadline": "",
+   "first_seen": "2026-11-12T12:52:06Z",
+   "id": "NDP1024/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين مستلزمات طبية عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a8%d8%b1-3/"
+  },
+  "NDP1025/26": {
+   "deadline": "",
+   "first_seen": "2026-11-12T12:52:06Z",
+   "id": "NDP1025/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود مستلزمات طبية للسوق الإلكتروني عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83-2/"
+  },
+  "NPT0001/23": {
+   "deadline": "Tue, 06/06/2023",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0001/23",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 06/06/2023",
+    "opening": "Wed, 07/06/2023",
+    "status": "Cancelled"
+   },
+   "opening": "Wed, 07/06/2023",
+   "source": "list",
+   "status": "Cancelled",
+   "title": "منافسة تأمين وتوريد أجهزة مع محاليل ومستهلكات خاصة بالمختبرات العامة للجهات الصحية الحكومية بنظام القيمة الثابتة لكل نتيجة مؤكدة GPPRR (المرحلة الثانية)",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%88%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d9%85%d8%b9-%d9%85%d8%ad%d8%a7%d9%84%d9%8a%d9%84-%d9%88%d9%85-6/"
+  },
+  "NPT0001/26": {
+   "deadline": "Sun, 02/08/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0001/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 02/08/2026",
+    "opening": "Mon, 03/08/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Mon, 03/08/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين مستلزمات الغسيل الكلوي والكلية الصناعية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85/"
+  },
+  "NPT0002/25": {
+   "deadline": "Wed, 07/05/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0002/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 07/05/2025",
+    "opening": "Thu, 08/05/2025",
+    "status": "Final Results"
+   },
+   "opening": "Thu, 08/05/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة توقيع اتفاقيات إطارية (مفتوحة) لقسم المشرحة وثلاجات الموتى",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d9%85/"
+  },
+  "NPT0002/26": {
+   "deadline": "Thu, 10/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0002/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Thu, 10/09/2026",
+    "opening": "Sun, 13/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Sun, 13/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين مستلزمات العلاج التنفسي والتخدير",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-5/"
+  },
+  "NPT0003/26": {
+   "deadline": "Mon, 08/06/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0003/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 08/06/2026",
+    "opening": "Tue, 09/06/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Tue, 09/06/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة للتفصيل حسب الطلب للتأهيل والأطراف الصناعية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%84%d8%aa%d9%81%d8%b5%d9%8a%d9%84/"
+  },
+  "NPT0004/23": {
+   "deadline": "Sun, 07/05/2023",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0004/23",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 07/05/2023",
+    "opening": "Mon, 08/05/2023",
+    "status": "Final Results"
+   },
+   "opening": "Mon, 08/05/2023",
+   "source": "list",
+   "status": "Final Results",
+   "title": "ملحق الإتفاقيات الإطارية لتوريد وتركيب أجهزة طبية للجهات الصحية الحكومية",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%84%d8%ad%d9%82-%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%84%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d9%88%d8%aa%d8%b1%d9%83/"
+  },
+  "NPT0004/26": {
+   "deadline": "Tue, 25/08/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0004/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 25/08/2026",
+    "opening": "Wed, 26/08/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 26/08/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية لمنافسة تأمين مستلزمات الأطراف الصناعية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa/"
+  },
+  "NPT0005/26": {
+   "deadline": "Tue, 28/07/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0005/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 28/07/2026",
+    "opening": "Wed, 29/07/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 29/07/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "منافسة الإتفاقية الإطارية المفتوحة لتأمين مستلزمات العظام والعمود الفقري",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84-2-2/"
+  },
+  "NPT0006/26": {
+   "deadline": "Tue, 01/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0006/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 01/09/2026",
+    "opening": "Wed, 02/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 02/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "منافسة الإتفاقية الإطارية المفتوحة لتأمين مستلزمات الجراحات التخصصية",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84-2/"
+  },
+  "NPT0007/26": {
+   "deadline": "Mon, 27/07/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0007/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 27/07/2026",
+    "opening": "Tue, 28/07/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Tue, 28/07/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الاتفاقية الإطارية المفتوحة لمنافسة تأمين المحاليل الوريدية وأدوية التغذية الوريدية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-10/"
+  },
+  "NPT0008/25": {
+   "deadline": "Sun, 25/05/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0008/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 25/05/2025",
+    "opening": "Mon, 26/05/2025",
+    "status": "Final Results"
+   },
+   "opening": "Mon, 26/05/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "الاتفاقية الإطارية المفتوحة لمنافسة الكيماويات والتحضيرات الصيدلانية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9/"
+  },
+  "NPT0008/26": {
+   "deadline": "Mon, 07/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0008/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 07/09/2026",
+    "opening": "Tue, 08/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Tue, 08/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لمنافسة تأمين بنود التغذية العلاجية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-2/"
+  },
+  "NPT0009/25": {
+   "deadline": "Tue, 24/06/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0009/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 24/06/2025",
+    "opening": "Wed, 25/06/2025",
+    "status": "Final Results"
+   },
+   "opening": "Wed, 25/06/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة توقيع اتفاقيات اطارية (مفتوحة) لأجهزة الليزر وملحقاتها",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84/"
+  },
+  "NPT0009/26": {
+   "deadline": "Tue, 08/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0009/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 08/09/2026",
+    "opening": "Wed, 09/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 09/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لمنافسة تأمين الأدوية المخدرة والمقيدة",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9/"
+  },
+  "NPT0010/23": {
+   "deadline": "Sun, 23/07/2023",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0010/23",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 23/07/2023",
+    "opening": "Mon, 24/07/2023",
+    "status": "Final Results"
+   },
+   "opening": "Mon, 24/07/2023",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع اتفاقيات اطارية لتوريد وتركيب أجهزة التصوير الطبي للجهات الصحية الحكومية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%84%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a8-%d8%a3-16/"
+  },
+  "NPT0010/26": {
+   "deadline": "Tue, 09/06/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0010/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 09/06/2026",
+    "opening": "Wed, 10/06/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 10/06/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الاتفاقية الإطارية لتأمين مستلزمات العقم والإخصاب",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7/"
+  },
+  "NPT0011/26": {
+   "deadline": "Tue, 31/03/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0011/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 31/03/2026",
+    "opening": "Wed, 01/04/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 01/04/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الاتفاقية الإطارية المفتوحة لمنافسة تأمين أدوية خدمة وصفتي",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-9/"
+  },
+  "NPT0012/26": {
+   "deadline": "Mon, 29/06/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0012/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 29/06/2026",
+    "opening": "Tue, 30/06/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Tue, 30/06/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الاتفاقية الاطارية المفتوحة لقسم الصيدلية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%b5/"
+  },
+  "NPT0013/23": {
+   "deadline": "Sun, 20/08/2023",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0013/23",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 20/08/2023",
+    "opening": "Mon, 21/08/2023",
+    "status": "Final Results"
+   },
+   "opening": "Mon, 21/08/2023",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة توقيع اتفاقيات اطارية لتوريد أجهزة المختبرات التخصصية",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%84%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d8%a3-2/"
+  },
+  "NPT0013/26": {
+   "deadline": "Tue, 18/08/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0013/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 18/08/2026",
+    "opening": "Wed, 19/08/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 19/08/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لقسم الأشعة",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%a3/"
+  },
+  "NPT0014/23": {
+   "deadline": "Tue, 25/07/2023",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0014/23",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 25/07/2023",
+    "opening": "Wed, 26/07/2023",
+    "status": "Final Results"
+   },
+   "opening": "Wed, 26/07/2023",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع اتفاقيات اطارية لتوريد أجهزة التأهيل الطبي",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%84%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84-3/"
+  },
+  "NPT0014/26": {
+   "deadline": "Sun, 24/05/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0014/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 24/05/2026",
+    "opening": "Mon, 25/05/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Mon, 25/05/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية تأمين مستلزمات ومحاليل لأقسام علم أمراض الأنسجة",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d9%88%d9%85/"
+  },
+  "NPT0015/25": {
+   "deadline": "Sun, 13/07/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0015/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 13/07/2025",
+    "opening": "Mon, 14/07/2025",
+    "status": "Final Results"
+   },
+   "opening": "Mon, 14/07/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "الاتفاقية الإطارية المفتوحة لمنافسة تأمين الفيتامينات والمعادن",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-3/"
+  },
+  "NPT0015/26": {
+   "deadline": "Sun, 02/08/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0015/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 02/08/2026",
+    "opening": "Mon, 03/08/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Mon, 03/08/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الاتفاقية الاطارية المفتوحة لقسم التأهيل الطبي",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%aa/"
+  },
+  "NPT0016/25": {
+   "deadline": "Tue, 08/07/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0016/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 08/07/2025",
+    "opening": "Wed, 09/07/2025",
+    "status": "Final Results"
+   },
+   "opening": "Wed, 09/07/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "الاتفاقية الإطارية المفتوحة لمنافسة تأمين النظائر المشعة وصبغات الأشعة",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-2/"
+  },
+  "NPT0016/26": {
+   "deadline": "Tue, 06/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0016/26",
+   "last_seen": "2026-11-10T10:00:11Z",
+   "notified": {
+    "deadline": "Tue, 06/10/2026",
+    "opening": "Wed, 07/10/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 07/10/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين مستلزمات الخيوط الجراحية وجراحة المناظير والجرآح الآلي",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-9/"
+  },
+  "NPT0017/25": {
+   "deadline": "Mon, 30/06/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0017/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 30/06/2025",
+    "opening": "Tue, 01/07/2025",
+    "status": "Final Results"
+   },
+   "opening": "Tue, 01/07/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "الاتفاقية الإطارية المفتوحة لمنافسة تأمين الهرمونات وأدوية الجهاز الهضمي",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-4/"
+  },
+  "NPT0018/25": {
+   "deadline": "Tue, 05/08/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0018/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 05/08/2025",
+    "opening": "Wed, 06/08/2025",
+    "status": "Final Results"
+   },
+   "opening": "Wed, 06/08/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "الاتفاقية الإطارية المفتوحة لمنافسة تأمين منتجات ومشتقات الدم",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-5/"
+  },
+  "NPT0018/26": {
+   "deadline": "Tue, 20/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0018/26",
+   "last_seen": "2026-11-10T10:00:11Z",
+   "notified": {
+    "deadline": "Tue, 20/10/2026",
+    "opening": "Wed, 21/10/2026",
+    "status": "Available / Updated"
+   },
+   "opening": "Wed, 21/10/2026",
+   "source": "list",
+   "status": "Available / Updated",
+   "title": "الاتفاقية الإطارية المفتوحة لتأمين مستلزمات العلاج الطبيعي والعلاج الوظيفي",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-4/"
+  },
+  "NPT0019/23": {
+   "deadline": "Mon, 14/08/2023",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0019/23",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 14/08/2023",
+    "opening": "Tue, 15/08/2023",
+    "status": "Final Results"
+   },
+   "opening": "Tue, 15/08/2023",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة توقيع اتفاقيات اطارية لتوريد وتركيب أجهزة طبية للجهات الصحية الحكومية – ملحق 2",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%84%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d9%88-4/"
+  },
+  "NPT0019/25": {
+   "deadline": "Tue, 01/07/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0019/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 01/07/2025",
+    "opening": "Wed, 02/07/2025",
+    "status": "Final Results"
+   },
+   "opening": "Wed, 02/07/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة توقيع اتفاقيات إطارية (مفتوحة) لقسم الأسنان",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84/"
+  },
+  "NPT0019/26": {
+   "deadline": "Mon, 14/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0019/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 14/09/2026",
+    "opening": "Tue, 15/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Tue, 15/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين مستلزمات التعقيم",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-7/"
+  },
+  "NPT0020/23": {
+   "deadline": "Tue, 15/08/2023",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0020/23",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 15/08/2023",
+    "opening": "Wed, 16/08/2023",
+    "status": "Final Results"
+   },
+   "opening": "Wed, 16/08/2023",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة توقيع اتفاقيات اطارية لتوريد وتركيب أجهزة المختبر العام",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%84%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d9%88-3/"
+  },
+  "NPT0020/25": {
+   "deadline": "Wed, 23/07/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0020/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 23/07/2025",
+    "opening": "Thu, 24/07/2025",
+    "status": "Final Results"
+   },
+   "opening": "Thu, 24/07/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة تأمين مستلزمات العلوم العصبية",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%b9%d8%b5%d8%a8%d9%8a%d8%a9-4/"
+  },
+  "NPT0020/26": {
+   "deadline": "Tue, 29/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0020/26",
+   "last_seen": "2026-11-09T00:58:40Z",
+   "notified": {
+    "deadline": "Tue, 29/09/2026",
+    "opening": "Wed, 30/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 30/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الاتفاقية الإطارية المفتوحة لقسم المختبرات التخصصية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d9%85/"
+  },
+  "NPT0021/24": {
+   "deadline": "Tue, 05/11/2024",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0021/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 05/11/2024",
+    "opening": "Wed, 06/11/2024",
+    "status": "Final Results"
+   },
+   "opening": "Wed, 06/11/2024",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع اتفاقيات اطارية (مفتوحة) لقسم العنايات المركزة والمراقبة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%b9/"
+  },
+  "NPT0021/25": {
+   "deadline": "Tue, 19/05/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0021/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 19/05/2026",
+    "opening": "Wed, 20/05/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 20/05/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "تقديم خدمات التأهيل الطبي",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%a3%d9%87%d9%8a%d9%84-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a/"
+  },
+  "NPT0021/26": {
+   "deadline": "Wed, 02/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0021/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 02/09/2026",
+    "opening": "Thu, 03/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Thu, 03/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لقسم المختبر العام",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d9%85/"
+  },
+  "NPT0022/24": {
+   "deadline": "Tue, 29/10/2024",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0022/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 29/10/2024",
+    "opening": "Wed, 30/10/2024",
+    "status": "Final Results"
+   },
+   "opening": "Wed, 30/10/2024",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع اتفاقيات اطارية (مفتوحة) للأقسام العامة والمعايرة والمحاكاة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%84%d8%a3%d9%82%d8%b3%d8%a7%d9%85/"
+  },
+  "NPT0022/25": {
+   "deadline": "Sun, 06/07/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0022/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 06/07/2025",
+    "opening": "Mon, 07/07/2025",
+    "status": "Final Results"
+   },
+   "opening": "Mon, 07/07/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "الاتفاقية الإطارية المفتوحة لمنافسة صحة الجهاز التنفسي والحواس",
+   "url": "https://www.nupco.com/tender/37471-2/"
+  },
+  "NPT0022/26": {
+   "deadline": "Mon, 24/08/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0022/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 24/08/2026",
+    "opening": "Tue, 25/08/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Tue, 25/08/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين مستلزمات المختبرات لأقسام الأحياء الدقيقة والجزيئية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-2/"
+  },
+  "NPT0023/25": {
+   "deadline": "Mon, 21/07/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0023/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 21/07/2025",
+    "opening": "Tue, 22/07/2025",
+    "status": "Final Results"
+   },
+   "opening": "Tue, 22/07/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع اتفاقيات إطارية (مفتوحة) للثلاجات والمجمدات",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%84%d8%ab%d9%84%d8%a7%d8%ac%d8%a7/"
+  },
+  "NPT0023/26": {
+   "deadline": "Wed, 09/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0023/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 09/09/2026",
+    "opening": "Thu, 10/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Thu, 10/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين مستلزمات ومحاليل المختبرات لأقسام الجينات والجينات الجزيئية والخلوية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-3/"
+  },
+  "NPT0024/25": {
+   "deadline": "Sun, 27/07/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0024/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 27/07/2025",
+    "opening": "Mon, 28/07/2025",
+    "status": "Final Results"
+   },
+   "opening": "Mon, 28/07/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة توقيع اتفاقيات إطارية (مفتوحة) لقسم الأنف والإذن والحنجرة",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84-2/"
+  },
+  "NPT0024/26": {
+   "deadline": "Wed, 16/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0024/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 16/09/2026",
+    "opening": "Thu, 17/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Thu, 17/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين المستلزمات الطبية العامة (تمريض والعناية بالجروح)",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a7/"
+  },
+  "NPT0025/26": {
+   "deadline": "Mon, 03/08/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0025/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 03/08/2026",
+    "opening": "Tue, 04/08/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Tue, 04/08/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الاتفاقية الإطارية المفتوحة لتأمين مستلزمات ومحاليل لأقسام الكيمياء والكيمياء المناعية ونقاط الرعاية الصحية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-3/"
+  },
+  "NPT0026/24": {
+   "deadline": "Mon, 11/11/2024",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0026/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 11/11/2024",
+    "opening": "Tue, 12/11/2024",
+    "status": "Final Results"
+   },
+   "opening": "Tue, 12/11/2024",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع اتفاقيات اطارية(مفتوحة) لقسم العمليات والمثاقيب الجراحية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%b9/"
+  },
+  "NPT0026/24-1": {
+   "deadline": "Thu, 10/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0026/24-1",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Thu, 10/09/2026",
+    "opening": "Sun, 13/09/2026",
+    "status": "Initial Results"
+   },
+   "opening": "Sun, 13/09/2026",
+   "source": "list",
+   "status": "Initial Results",
+   "title": "التحديث على الاتفاقية الاطارية المفتوحة لقسم العمليات والمثاقيب الجراحية – المرحلة الأولى",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa/"
+  },
+  "NPT0026/26": {
+   "deadline": "Sun, 13/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0026/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 13/09/2026",
+    "opening": "Mon, 14/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Mon, 14/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين مستلزمات ومحاليل علم المناعة وتطابق الأنسجة والتدفق الخلوي",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-6/"
+  },
+  "NPT0027/24": {
+   "deadline": "Wed, 29/01/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0027/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 29/01/2025",
+    "opening": "Thu, 30/01/2025",
+    "status": "Final Results"
+   },
+   "opening": "Thu, 30/01/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع إتفاقيات إطارية (مفتوحة) للأثاث الطبي",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%84%d8%a3%d8%ab%d8%a7%d8%ab-%d8%a7/"
+  },
+  "NPT0027/25": {
+   "deadline": "Mon, 25/08/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0027/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 25/08/2025",
+    "opening": "Tue, 26/08/2025",
+    "status": "Final Results"
+   },
+   "opening": "Tue, 26/08/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "الاتفاقية الإطارية المفتوحة لمنافسة تأمين بنود طب الباطنة والأمراض المزمنة",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-6/"
+  },
+  "NPT0027/26": {
+   "deadline": "Sun, 26/07/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0027/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 26/07/2026",
+    "opening": "Mon, 27/07/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Mon, 27/07/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الاتفاقية الإطارية المفتوحة لتأمين مستلزمات ومحاليل خاصة بالمختبرات العامة",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-2/"
+  },
+  "NPT0028/25": {
+   "deadline": "Mon, 17/11/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0028/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 17/11/2025",
+    "opening": "Tue, 18/11/2025",
+    "status": "Final Results"
+   },
+   "opening": "Tue, 18/11/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "الاتفاقية الإطارية المفتوحة لمنافسة تأمين الأمصال واللقاحات",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-7/"
+  },
+  "NPT0028/26": {
+   "deadline": "Sun, 30/08/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0028/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 30/08/2026",
+    "opening": "Mon, 31/08/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Mon, 31/08/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين مستلزمات جراحة الوجه والفكين وزراعة الأسنان",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-4/"
+  },
+  "NPT0029/25": {
+   "deadline": "Tue, 28/10/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0029/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 28/10/2025",
+    "opening": "Wed, 29/10/2025",
+    "status": "Final Results"
+   },
+   "opening": "Wed, 29/10/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة الاتفاقية الإطارية المفتوحة لقسم التعقيم ومكافحة العدوى",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84/"
+  },
+  "NPT0029/26": {
+   "deadline": "Tue, 15/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0029/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 15/09/2026",
+    "opening": "Wed, 16/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 16/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين مستلزمات مناظير الجهاز الهضمي",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-8/"
+  },
+  "NPT0030/25": {
+   "deadline": "Wed, 17/12/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0030/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 17/12/2025",
+    "opening": "Thu, 18/12/2025",
+    "status": "Final Results"
+   },
+   "opening": "Thu, 18/12/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "الاتفاقية الإطارية المفتوحة لقسم العيون",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%b9/"
+  },
+  "NPT0030/26": {
+   "deadline": "Sun, 18/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0030/26",
+   "last_seen": "2026-11-10T10:00:11Z",
+   "notified": {
+    "deadline": "Sun, 18/10/2026",
+    "opening": "Mon, 19/10/2026",
+    "status": "Available / New"
+   },
+   "opening": "Mon, 19/10/2026",
+   "source": "list",
+   "status": "Available / New",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين مستلزمات المختبرات لأقسام السموم/ الوراثة الكيميائية تحاليل حديثي الولادة/ المواد الكيمائية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-10/"
+  },
+  "NPT0031/25": {
+   "deadline": "Sun, 26/10/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0031/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 26/10/2025",
+    "opening": "Mon, 27/10/2025",
+    "status": "Under Studying"
+   },
+   "opening": "Mon, 27/10/2025",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الاتفاقية الاطارية المفتوحة لتأمين مستلزمات المعقمات",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85/"
+  },
+  "NPT0031/26": {
+   "deadline": "Tue, 27/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0031/26",
+   "last_seen": "2026-11-11T06:38:54Z",
+   "notified": {
+    "deadline": "Tue, 27/10/2026",
+    "opening": "Wed, 28/10/2026",
+    "status": "Available / New"
+   },
+   "opening": "Wed, 28/10/2026",
+   "source": "list",
+   "status": "Available / New",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين مستلزمات نقل الدم وبنوك الدم / الخلايا الجذعية / علم أمراض الدم / اختبارات التجلط",
+   "url": "https://www.nupco.com/tender/2%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85/"
+  },
+  "NPT0032/26": {
+   "deadline": "Sun, 25/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0032/26",
+   "last_seen": "2026-11-11T06:38:54Z",
+   "notified": {
+    "deadline": "Sun, 25/10/2026",
+    "opening": "Mon, 26/10/2026",
+    "status": "Available / New"
+   },
+   "opening": "Mon, 26/10/2026",
+   "source": "list",
+   "status": "Available / New",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين مستلزمات الأسنان العامة",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85-11/"
+  },
+  "NPT0033/24": {
+   "deadline": "Tue, 10/12/2024",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0033/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 10/12/2024",
+    "opening": "Wed, 11/12/2024",
+    "status": "Final Results"
+   },
+   "opening": "Wed, 11/12/2024",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع اتفاقيات اطارية (مفتوحة) لتجهيز وتوريد سيارات الإسعاف",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%ac%d9%87%d9%8a%d8%b2-%d9%88/"
+  },
+  "NPT0033/25": {
+   "deadline": "Mon, 08/09/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0033/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 08/09/2025",
+    "opening": "Tue, 09/09/2025",
+    "status": "Final Results"
+   },
+   "opening": "Tue, 09/09/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة تأمين مستلزمات الأنف والأذن والحنجرة",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%86%d9%81-%d9%88%d8%a7%d9%84%d8%a3%d8%b0%d9%86-%d9%88%d8%a7-3/"
+  },
+  "NPT0034/24": {
+   "deadline": "Mon, 20/01/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0034/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 20/01/2025",
+    "opening": "Tue, 21/01/2025",
+    "status": "Final Results"
+   },
+   "opening": "Tue, 21/01/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع اتفاقيات اطارية (مفتوحة) لقسم الرعاية المنزلية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%b1/"
+  },
+  "NPT0034/25": {
+   "deadline": "Mon, 12/01/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0034/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 12/01/2026",
+    "opening": "Tue, 13/01/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Tue, 13/01/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الاتفاقية الإطارية المفتوحة لأدوية الأمراض المعدية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d8%a7/"
+  },
+  "NPT0035/25": {
+   "deadline": "Sun, 12/10/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0035/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 12/10/2025",
+    "opening": "Mon, 13/10/2025",
+    "status": "Initial Results"
+   },
+   "opening": "Mon, 13/10/2025",
+   "source": "list",
+   "status": "Initial Results",
+   "title": "منافسة تأمين المستلزمات الطبية العامة ( تمريض والعناية بالجروح )",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-2/"
+  },
+  "NPT0036/26": {
+   "deadline": "Mon, 31/08/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0036/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 31/08/2026",
+    "opening": "Tue, 01/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Tue, 01/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الاتفاقية الإطارية المفتوحة لتأمين الجراح الآلي بنظام الدفع مقابل الاستخدام",
+   "url": "https://www.nupco.com/tender/53775-2/"
+  },
+  "NPT0037/24": {
+   "deadline": "Mon, 17/03/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0037/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 17/03/2025",
+    "opening": "Tue, 18/03/2025",
+    "status": "Final Results"
+   },
+   "opening": "Tue, 18/03/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة ملحق الأدوية",
+   "url": "https://www.nupco.com/tender/33006-2/"
+  },
+  "NPT0037/25": {
+   "deadline": "Sun, 02/11/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0037/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 02/11/2025",
+    "opening": "Mon, 03/11/2025",
+    "status": "Final Results"
+   },
+   "opening": "Mon, 03/11/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "تأمين المستلزمات العامة الجراحية (مسالك بولية ، والجراحة) الإلحاقية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d8%a7%d9%84%d8%ac%d8%b1%d8%a7%d8%ad%d9%8a%d8%a9-%d9%85%d8%b3%d8%a7-2/"
+  },
+  "NPT0038/25": {
+   "deadline": "Mon, 05/01/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0038/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 05/01/2026",
+    "opening": "Tue, 06/01/2026",
+    "status": "Final Results"
+   },
+   "opening": "Tue, 06/01/2026",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة الإتفاقية الإطارية المفتوحة لمستلزمات الأشعة التداخلية وقسطرة القلب",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84/"
+  },
+  "NPT0038/26": {
+   "deadline": "Sun, 14/06/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0038/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 14/06/2026",
+    "opening": "Mon, 15/06/2026",
+    "status": "Final Results"
+   },
+   "opening": "Mon, 15/06/2026",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة خدمة نقل الأعضاء والأنسجة",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%ae%d8%af%d9%85%d8%a9-%d9%86%d9%82%d9%84-%d8%a7%d9%84%d8%a3%d8%b9%d8%b6%d8%a7%d8%a1-%d9%88%d8%a7%d9%84%d8%a3%d9%86%d8%b3%d8%ac%d8%a9/"
+  },
+  "NPT0039/23": {
+   "deadline": "Mon, 10/07/2023",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0039/23",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 10/07/2023",
+    "opening": "Tue, 11/07/2023",
+    "status": "Cancelled"
+   },
+   "opening": "Tue, 11/07/2023",
+   "source": "list",
+   "status": "Cancelled",
+   "title": "منافسة تأمين وتوريد أجهزة مع محاليل ومستهلكات خاصة بالمختبرات العامة للجهات الصحية الحكومية بنظام القيمة الثابتة لكل نتيجة مؤكدة GPPRR (المرحلة الثالثة)",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%88%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d9%85%d8%b9-%d9%85%d8%ad%d8%a7%d9%84%d9%8a%d9%84-%d9%88%d9%85-8/"
+  },
+  "NPT0040/26": {
+   "deadline": "",
+   "first_seen": "2026-10-25T13:16:26Z",
+   "id": "NPT0040/26",
+   "last_seen": "2026-11-11T06:38:54Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "الاتفاقية الإطارية المفتوحة لتأجير الأجهزة الطبية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%a7/"
+  },
+  "NPT0041/25": {
+   "deadline": "Sun, 25/01/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0041/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 25/01/2026",
+    "opening": "Mon, 26/01/2026",
+    "status": "Initial Results"
+   },
+   "opening": "Mon, 26/01/2026",
+   "source": "list",
+   "status": "Initial Results",
+   "title": "الاتفاقية الإطارية المفتوحة لمنافسة العناية الحرجة والأمراض العصبية والنفسية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-8/"
+  },
+  "NPT0042/23": {
+   "deadline": "Wed, 04/10/2023",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0042/23",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 04/10/2023",
+    "opening": "Thu, 05/10/2023",
+    "status": "Cancelled"
+   },
+   "opening": "Thu, 05/10/2023",
+   "source": "list",
+   "status": "Cancelled",
+   "title": "تقديم خدمة الغسيل الكلوي في المنازل للجهات الصحية الحكومية",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d8%ae%d8%af%d9%85%d8%a9-%d8%a7%d9%84%d8%ba%d8%b3%d9%8a%d9%84-%d8%a7%d9%84%d9%83%d9%84%d9%88%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b2%d9%84-%d9%84%d9%84/"
+  },
+  "NPT0042/25": {
+   "deadline": "Tue, 03/02/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0042/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 03/02/2026",
+    "opening": "Wed, 04/02/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 04/02/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لمستلزمات جراحة القلب والأوعية الدموية",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85/"
+  },
+  "NPT0042/26": {
+   "deadline": "Sun, 20/09/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0042/26",
+   "last_seen": "2026-11-08T07:27:32Z",
+   "notified": {
+    "deadline": "Sun, 20/09/2026",
+    "opening": "Mon, 21/09/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Mon, 21/09/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "الإتفاقية الإطارية المفتوحة لخدمات الرعاية المديدةلمستفيدي مركز التأمين الصحي الوطني والقطاعات الصحية الأخرى",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7/"
+  },
+  "NPT0043/25": {
+   "deadline": "Mon, 10/11/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0043/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 10/11/2025",
+    "opening": "Tue, 11/11/2025",
+    "status": "Final Results"
+   },
+   "opening": "Tue, 11/11/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة تأمين مستلزمات الأسنان (المختبر والزراعة وجراحة الوجة والفكين) الإلحاقية",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%a8-3/"
+  },
+  "NPT0043/26": {
+   "deadline": "Wed, 12/08/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0043/26",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 12/08/2026",
+    "opening": "Thu, 13/08/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Thu, 13/08/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "منافسة خدمات إدارة النفايات الطبية",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d9%81%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-2/"
+  },
+  "NPT0044/25": {
+   "deadline": "Wed, 19/11/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0044/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 19/11/2025",
+    "opening": "Thu, 20/11/2025",
+    "status": "Final Results"
+   },
+   "opening": "Thu, 20/11/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة تأمين المستلزمات العامة (الخيوط الجراحية المناظير الباطنية والجراح الآلي) الإلحاقية",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d8%a7%d9%84%d8%ae%d9%8a%d9%88-3/"
+  },
+  "NPT0045/25": {
+   "deadline": "Mon, 19/01/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0045/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 19/01/2026",
+    "opening": "Tue, 20/01/2026",
+    "status": "Initial Results"
+   },
+   "opening": "Tue, 20/01/2026",
+   "source": "list",
+   "status": "Initial Results",
+   "title": "الاتفاقية الإطارية المفتوحة لأدوية الأمراض المناعية والنادرة",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d8%a7-2/"
+  },
+  "NPT0046/24": {
+   "deadline": "Mon, 21/10/2024",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0046/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 21/10/2024",
+    "opening": "Tue, 22/10/2024",
+    "status": "Final Results"
+   },
+   "opening": "Tue, 22/10/2024",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع اتفاقيات اطارية (مفتوحة) للمضخات ومستهلكاتها",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%84%d9%85%d8%b6%d8%ae%d8%a7%d8%aa/"
+  },
+  "NPT0047/24": {
+   "deadline": "Sun, 13/10/2024",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0047/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 13/10/2024",
+    "opening": "Mon, 14/10/2024",
+    "status": "Final Results"
+   },
+   "opening": "Mon, 14/10/2024",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع اتفاقيات اطارية (مفتوحة) لقسم السكري ومستهلكاته",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%b3/"
+  },
+  "NPT0047/25": {
+   "deadline": "Wed, 04/02/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0047/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 04/02/2026",
+    "opening": "Thu, 05/02/2026",
+    "status": "Initial Results"
+   },
+   "opening": "Thu, 05/02/2026",
+   "source": "list",
+   "status": "Initial Results",
+   "title": "الاتفاقية الاطارية المفتوحة لمنافسة تأمين أدوية علاج الأورام",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9/"
+  },
+  "NPT0047/26": {
+   "deadline": "Tue, 01/12/2026",
+   "first_seen": "2026-11-10T17:55:32Z",
+   "id": "NPT0047/26",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "Tue, 01/12/2026",
+    "opening": "Wed, 02/12/2026",
+    "status": "Available / New"
+   },
+   "opening": "Wed, 02/12/2026",
+   "source": "offlist",
+   "status": "Available / New",
+   "title": "‫اتفاقية الدخول للسوق الدوائي للعلاج الجيني الخلوي المناعي (Ciltacabtagene Autoleucel) لعلاج الورم العنقوي المتعدد (Multiple Myeloma)‬",
+   "url": "https://www.nupco.com/en/tenders/tenders-list"
+  },
+  "NPT0048/24": {
+   "deadline": "Thu, 18/07/2024",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0048/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Thu, 18/07/2024",
+    "opening": "Thu, 18/07/2024",
+    "status": "Final Results"
+   },
+   "opening": "Thu, 18/07/2024",
+   "source": "list",
+   "status": "Final Results",
+   "title": "تأهيل الشركات الصانعة لتوقيع اتفاقية خدمات مقابل الشراء (VALUE BASE AGREEMENT)",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%87%d9%8a%d9%84-%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d9%86%d8%b9%d8%a9-%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9/"
+  },
+  "NPT0048/26": {
+   "deadline": "الأربعاء, 28/10/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0048/26",
+   "last_seen": "2026-11-11T06:38:54Z",
+   "notified": {
+    "deadline": "الأربعاء, 28/10/2026",
+    "opening": "الخميس, 29/10/2026",
+    "status": "متاحة / جديد"
+   },
+   "opening": "الخميس, 29/10/2026",
+   "source": "list",
+   "status": "متاحة / جديد",
+   "title": "الإتفاقية الإطارية المفتوحة لتأمين أجهزة الرعاية المنزلية والخدمات المصاحبة لها",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a5%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3/"
+  },
+  "NPT0049/24": {
+   "deadline": "Thu, 18/04/2024",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0049/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Thu, 18/04/2024",
+    "opening": "Thu, 18/04/2024",
+    "status": "Under Studying"
+   },
+   "opening": "Thu, 18/04/2024",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "طلب معلومات الاستعانة بمصادر خارجية لخدمات الأشعة الطبية",
+   "url": "https://www.nupco.com/tender/%d8%b7%d9%84%d8%a8-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d8%a7%d9%86%d8%a9-%d8%a8%d9%85%d8%b5%d8%a7%d8%af%d8%b1-%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9-%d9%84/"
+  },
+  "NPT0049/25": {
+   "deadline": "Wed, 07/01/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0049/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Wed, 07/01/2026",
+    "opening": "Thu, 08/01/2026",
+    "status": "Final Results"
+   },
+   "opening": "Thu, 08/01/2026",
+   "source": "list",
+   "status": "Final Results",
+   "title": "الاتفاقية الإطارية المفتوحة لتأمين مستلزمات العيون",
+   "url": "https://www.nupco.com/tender/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85/"
+  },
+  "NPT0050/24": {
+   "deadline": "Sun, 17/11/2024",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0050/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 17/11/2024",
+    "opening": "Mon, 18/11/2024",
+    "status": "Cancelled"
+   },
+   "opening": "Mon, 18/11/2024",
+   "source": "list",
+   "status": "Cancelled",
+   "title": "منافسة خدمات تأمين وتوريد أجهزة مع محاليل ومستهلكات المختبرات العامة لمستشفيات التجمعات الصحية الحكومية التابعة لوزارة الصحة بنظام القيمة الثابتة لكل نتيجة مؤكدة GPPRR (المرحلة الأولى)",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%88%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d9%85%d8%b9-%d9%85%d8%ad%d8%a7/"
+  },
+  "NPT0050/25": {
+   "deadline": "Tue, 11/03/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0050/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 11/03/2025",
+    "opening": "Wed, 12/03/2025",
+    "status": "Final Results"
+   },
+   "opening": "Wed, 12/03/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة ملحق تأمين أدوية خدمة وصفتي",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%84%d8%ad%d9%82-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d8%ae%d8%af%d9%85%d8%a9-%d9%88%d8%b5%d9%81%d8%aa%d9%8a/"
+  },
+  "NPT0052/24": {
+   "deadline": "Tue, 26/11/2024",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0052/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 26/11/2024",
+    "opening": "Wed, 27/11/2024",
+    "status": "Final Results"
+   },
+   "opening": "Wed, 27/11/2024",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع اتفاقيات اطارية (مفتوحة) للأجهزة الطبية ملحق رقم (1)",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%84%d8%a3%d8%ac%d9%87%d8%b2%d8%a9/"
+  },
+  "NPT0054/25": {
+   "deadline": "Tue, 03/03/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0054/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 03/03/2026",
+    "opening": "Wed, 04/03/2026",
+    "status": "Initial Results"
+   },
+   "opening": "Wed, 04/03/2026",
+   "source": "list",
+   "status": "Initial Results",
+   "title": "منافسة تقديم خدمات الرعاية الصحية المنزلية",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%b9%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%a9-%d8%a7%d9%84%d9%85/"
+  },
+  "NPT0055/24": {
+   "deadline": "Tue, 11/11/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0055/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 11/11/2025",
+    "opening": "Wed, 12/11/2025",
+    "status": "Cancelled"
+   },
+   "opening": "Wed, 12/11/2025",
+   "source": "list",
+   "status": "Cancelled",
+   "title": "منافسة تقديم خدمات الرعاية الصحية لمرضى الإقامة الطويلة في منشآت الرعاية الصحية",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%b9%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%a9-%d9%84%d9%85%d8%b1/"
+  },
+  "NPT0055/25": {
+   "deadline": "Sun, 30/11/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0055/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 30/11/2025",
+    "opening": "Mon, 01/12/2025",
+    "status": "Under Studying"
+   },
+   "opening": "Mon, 01/12/2025",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "تقديم خدمات التصوير الطبي (الأشعة)",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a-%d8%a7%d9%84%d8%a3%d8%b4%d8%b9%d8%a9/"
+  },
+  "NPT0056/24": {
+   "deadline": "Sun, 19/01/2025",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0056/24",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 19/01/2025",
+    "opening": "Mon, 20/01/2025",
+    "status": "Final Results"
+   },
+   "opening": "Mon, 20/01/2025",
+   "source": "list",
+   "status": "Final Results",
+   "title": "توقيع اتفاقيات اطارية (مفتوحة) للأجهزة الطبية ملحق رقم (2)",
+   "url": "https://www.nupco.com/tender/%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d9%84%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-2/"
+  },
+  "NPT0059/25": {
+   "deadline": "Mon, 09/02/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0059/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 09/02/2026",
+    "opening": "Tue, 10/02/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Tue, 10/02/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "منافسة تقديم خدمات النقل الطبي الغير اسعافي",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d9%82%d9%84-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a-%d8%a7%d9%84%d8%ba%d9%8a%d8%b1-%d8%a7/"
+  },
+  "NPT0060/25": {
+   "deadline": "Tue, 12/05/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0060/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Tue, 12/05/2026",
+    "opening": "Wed, 13/05/2026",
+    "status": "Under Studying"
+   },
+   "opening": "Wed, 13/05/2026",
+   "source": "list",
+   "status": "Under Studying",
+   "title": "منافسة تقديم خدمات العلاج الإشعاعي",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d8%ac-%d8%a7%d9%84%d8%a5%d8%b4%d8%b9%d8%a7%d8%b9%d9%8a/"
+  },
+  "NPT0062/25": {
+   "deadline": "Mon, 30/03/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0062/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Mon, 30/03/2026",
+    "opening": "Tue, 31/03/2026",
+    "status": "Initial Results"
+   },
+   "opening": "Tue, 31/03/2026",
+   "source": "list",
+   "status": "Initial Results",
+   "title": "منافسة خدمات التغذية والإعاشة في المنشآت الصحية",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%ba%d8%b0%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%a5%d8%b9%d8%a7%d8%b4%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d9%86/"
+  },
+  "NPT0063/25": {
+   "deadline": "Sun, 07/06/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0063/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 07/06/2026",
+    "opening": "Mon, 08/06/2026",
+    "status": "Cancelled"
+   },
+   "opening": "Mon, 08/06/2026",
+   "source": "list",
+   "status": "Cancelled",
+   "title": "منافسة خدمات إدارة النفايات الطبية",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d9%81%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9/"
+  },
+  "NPT0064/25": {
+   "deadline": "Sun, 01/02/2026",
+   "first_seen": "2026-10-08T15:26:29Z",
+   "id": "NPT0064/25",
+   "last_seen": "2026-10-11T08:23:35Z",
+   "notified": {
+    "deadline": "Sun, 01/02/2026",
+    "opening": "Mon, 02/02/2026",
+    "status": "Final Results"
+   },
+   "opening": "Mon, 02/02/2026",
+   "source": "list",
+   "status": "Final Results",
+   "title": "منافسة عامة لتوريد وتجهيز مشروع مختبر الكشف عن المنشطات",
+   "url": "https://www.nupco.com/tender/%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d8%aa%d9%88%d8%b1%d9%8a%d8%af-%d9%88%d8%aa%d8%ac%d9%87%d9%8a%d8%b2-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%85%d8%ae%d8%aa%d8%a8%d8%b1/"
+  },
+  "url:nupco.com/tender/تأمين-أجهزة-طبية-المديرية-العامة-لل": {
+   "deadline": "",
+   "first_seen": "2026-10-12T19:51:39Z",
+   "id": "",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين أجهزة طبية المديرية العامة لل",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84/"
+  },
+  "url:nupco.com/tender/تأمين-أجهزة-طبية-مستشفى-القوات-المس": {
+   "deadline": "",
+   "first_seen": "2026-10-12T19:51:39Z",
+   "id": "",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين أجهزة طبية مستشفى القوات المس",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%85%d8%b3%d8%aa%d8%b4%d9%81%d9%89-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b3/"
+  },
+  "url:nupco.com/tender/تأمين-أجهزة-طبية-مستشفى-الملك-عبدال": {
+   "deadline": "",
+   "first_seen": "2026-10-13T09:31:17Z",
+   "id": "",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين أجهزة طبية مستشفى الملك عبدال",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%b7%d8%a8%d9%8a%d8%a9-%d9%85%d8%b3%d8%aa%d8%b4%d9%81%d9%89-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d8%b9%d8%a8%d8%af%d8%a7%d9%84/"
+  },
+  "url:nupco.com/tender/تأمين-بنود-الكساوي-وزارة-الصحة": {
+   "deadline": "",
+   "first_seen": "2026-10-19T10:52:28Z",
+   "id": "",
+   "last_seen": "2026-11-15T11:08:41Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "offlist",
+   "status": "",
+   "title": "تأمين بنود الكساوي وزارة الصحة",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a7%d9%84%d9%83%d8%b3%d8%a7%d9%88%d9%8a-%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%a9/"
+  }
+ },
+ "version": 2
+}
