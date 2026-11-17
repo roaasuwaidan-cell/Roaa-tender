@@ -46,8 +46,21 @@ LIST_URL = os.getenv("NUPCO_LIST_URL", f"{BASE}/tenders/tenders-list/")
 STATE_FILE = Path(os.getenv("STATE_FILE", "state.json"))
 LEGACY_FILE = Path(os.getenv("LEGACY_FILE", "last_seen.txt"))
 
-TG_TOKEN = os.getenv("TELEGRAM_TOKEN", "").strip()
-TG_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "").strip()
+def env_first(*names: str) -> str:
+    """First non-empty environment variable among `names` ("" if none)."""
+    for n in names:
+        v = os.getenv(n, "").strip()
+        if v:
+            return v
+    return ""
+
+
+# The first version of this bot used the secret names TELEGRAM_TOKEN + CHAT_ID;
+# accept both the old and the new names so either set of repo secrets works.
+TG_TOKEN = env_first("TELEGRAM_TOKEN", "TELEGRAM_BOT_TOKEN", "BOT_TOKEN")
+TG_CHAT_ID = env_first("TELEGRAM_CHAT_ID", "CHAT_ID")
+TG_SETUP_HINT = ("Telegram is not configured: add the repository secrets TELEGRAM_TOKEN and "
+                 "TELEGRAM_CHAT_ID (or CHAT_ID) under Settings > Secrets and variables > Actions.")
 NOTIFY_ON_FIRST_RUN = os.getenv("NOTIFY_ON_FIRST_RUN", "false").lower() == "true"
 # Send a short "check finished, nothing new" message after every clean run.
 # Set NOTIFY_NO_CHANGE=false in the workflow to switch it off.
@@ -57,6 +70,7 @@ MAX_PAGES = 40            # hard cap on listing pages followed
 LOOKBACK_DAYS = 7         # REST/sitemap safety-net only looks at recent items
 MAX_DETAIL_FETCHES = 30   # cap on extra detail pages fetched per run
 HOLD_HOURS = 24          # ID-less records are held this long while we keep trying to resolve the ID
+GONE_AFTER_404 = 3        # an ID-less record whose page 404s this many runs is no longer re-fetched
 DEBUG_DIR = Path(os.getenv("DEBUG_DIR", "debug"))
 FAIL_ALERT_AFTER = 3      # consecutive failed runs before a health alert
 HEARTBEAT_DAYS = 6        # rewrite state at least this often (keeps repo "active")
@@ -436,20 +450,38 @@ def discover_extra(session: requests.Session, state: dict, list_items: list[dict
         except Exception as e:  # noqa: BLE001 - safety net must never break the run
             log.info("%s source unavailable (%s)", name, type(e).__name__)
     unknown = [c for k, c in cands.items() if k and k not in known][:MAX_DETAIL_FETCHES]
-    # Re-try records that were stored WITHOUT an ID on earlier runs.
-    for t in state["tenders"].values():
-        if not t.get("id") and t.get("url") and len(unknown) < MAX_DETAIL_FETCHES * 2:
-            unknown.append({"url": t["url"], "title": t.get("title", ""), "html": ""})
+    # Re-try records that were stored WITHOUT an ID on earlier runs
+    # (except those whose page NUPCO has deleted - see GONE_AFTER_404).
+    for key, t in state["tenders"].items():
+        if not t.get("id") and t.get("url") and not t.get("gone") \
+                and len(unknown) < MAX_DETAIL_FETCHES * 2:
+            unknown.append({"url": t["url"], "title": t.get("title", ""), "html": "", "key": key})
     extra: list[dict] = []
     for c in unknown:
         item = None
+        short = unquote(urlparse(c["url"]).path)               # readable Arabic slug, not %d8%aa...
         try:
             text = fetch(session, c["url"], bust=True)
             item = parse_detail(text, c["url"], c.get("title", ""))
             if item is None:
-                log.warning("No tender ID found on detail page %s", c["url"])
+                log.warning("No tender ID found on detail page %s", short)
+        except requests.HTTPError as e:
+            code = e.response.status_code if e.response is not None else None
+            rec = state["tenders"].get(c.get("key", ""))
+            if code == 404 and rec is not None:
+                # Page deleted on nupco.com.  The record was already handled, so after a few
+                # confirmations stop fetching it (it is pruned normally after PRUNE_DAYS).
+                rec["misses"] = rec.get("misses", 0) + 1
+                if rec["misses"] >= GONE_AFTER_404:
+                    rec["gone"] = iso(utcnow())
+                    log.info("Tender page removed by NUPCO, will no longer be checked: %s", short)
+                else:
+                    log.info("Tender page not found (404, check %d/%d): %s",
+                             rec["misses"], GONE_AFTER_404, short)
+                continue
+            log.warning("detail fetch failed for %s (HTTP %s)", short, code)
         except Exception as e:  # noqa: BLE001
-            log.warning("detail fetch failed for %s (%s: %s)", c["url"], type(e).__name__, e)
+            log.warning("detail fetch failed for %s (%s: %s)", short, type(e).__name__, e)
         if item is None and c.get("html"):                      # REST gave us the body already
             item = parse_detail(c["html"], c["url"], c.get("title", ""))
         if item is None:
@@ -575,9 +607,22 @@ def prune(state: dict, now: datetime) -> None:
 # --------------------------------------------------------------------------- #
 # Notifications
 # --------------------------------------------------------------------------- #
+LAST_TG_ERROR = ""   # reason of the most recent Telegram failure (shown in the Actions summary)
+
+
+def gh_annotate(level: str, message: str) -> None:
+    """Show a message on the GitHub Actions run summary page (no-op outside Actions)."""
+    if os.getenv("GITHUB_ACTIONS") == "true":
+        print(f"::{level}::{message}".replace("\n", " "), flush=True)
+
+
 def tg_send(text: str, html_mode: bool = True) -> bool:
+    global LAST_TG_ERROR
     if not TG_TOKEN or not TG_CHAT_ID:
-        log.error("TELEGRAM_TOKEN / TELEGRAM_CHAT_ID not configured.")
+        missing = [n for n, v in (("TELEGRAM_TOKEN", TG_TOKEN), ("TELEGRAM_CHAT_ID / CHAT_ID", TG_CHAT_ID))
+                   if not v]
+        LAST_TG_ERROR = f"{TG_SETUP_HINT} Missing: {', '.join(missing)}"
+        log.error("%s", LAST_TG_ERROR)
         return False
     api = f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage"
     payload = {"chat_id": TG_CHAT_ID, "text": text, "disable_web_page_preview": True}
@@ -599,11 +644,13 @@ def tg_send(text: str, html_mode: bool = True) -> bool:
             if r.status_code == 400 and "parse" in desc.lower() and html_mode:
                 plain = html.unescape(re.sub(r"<[^>]+>", "", text))
                 return tg_send(plain, html_mode=False)
-            log.error("Telegram HTTP %s: %s (attempt %d)", r.status_code, desc, attempt)
+            LAST_TG_ERROR = f"Telegram HTTP {r.status_code}: {desc}"
+            log.error("%s (attempt %d)", LAST_TG_ERROR, attempt)
             if r.status_code in (400, 401, 403, 404):
                 return False                                # retrying will not help
         except requests.RequestException as e:
-            log.error("Telegram request failed: %s (attempt %d)", type(e).__name__, attempt)
+            LAST_TG_ERROR = f"Telegram request failed: {type(e).__name__}"
+            log.error("%s (attempt %d)", LAST_TG_ERROR, attempt)
         time.sleep(2 ** attempt)
     return False
 
@@ -758,8 +805,12 @@ def main() -> int:
     save_state(state, now)
 
     if failed:
+        gh_annotate("error", f"{failed} tender alert(s) could not be sent to Telegram and will be "
+                             f"retried next run. Reason: {LAST_TG_ERROR or 'unknown'}")
         return 1
     if not scrape_ok and health["failures"] >= FAIL_ALERT_AFTER:
+        gh_annotate("error", f"NUPCO scraping failed {health['failures']} runs in a row. "
+                             f"Last error: {health.get('last_error', 'unknown')}")
         return 1  # turns the Actions run red -> GitHub emails you
     return 0
 
