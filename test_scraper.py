@@ -125,5 +125,41 @@ class Flow(unittest.TestCase):
         self.assertGreater(len(sent), 1); self.assertTrue(all(len(s) <= 4096 for s in sent))
         self.assertEqual(sum(s.count("🆕") for s in sent), 40); self.assertNotIn("<b>&", "".join(sent))
 
+class Fixes(unittest.TestCase):
+    def setUp(self): fresh()
+    def test_chat_id_falls_back_to_old_secret_name(self):
+        with mock.patch.dict(os.environ, {"TELEGRAM_CHAT_ID": "", "CHAT_ID": "12345"}):
+            self.assertEqual(S.env_first("TELEGRAM_CHAT_ID", "CHAT_ID"), "12345")
+        with mock.patch.dict(os.environ, {"TELEGRAM_CHAT_ID": "999", "CHAT_ID": "12345"}):
+            self.assertEqual(S.env_first("TELEGRAM_CHAT_ID", "CHAT_ID"), "999")
+    def test_missing_chat_id_keeps_alerts_pending_and_says_why(self):
+        run([it("A1/26")])
+        with mock.patch.object(S, "TG_CHAT_ID", ""), mock.patch.dict(os.environ, {"GITHUB_ACTIONS": "true"}), \
+             mock.patch.object(S, "scrape_listing", return_value=[it("A1/26"), it("A9/26")]), \
+             mock.patch.object(S, "discover_extra", return_value=[]), \
+             mock.patch("builtins.print") as pr:
+            self.assertEqual(S.main(), 1)
+        out = " ".join(str(c.args[0]) for c in pr.call_args_list)
+        self.assertIn("::error::", out); self.assertIn("CHAT_ID", out)
+        code, sent = run([it("A1/26"), it("A9/26")])                     # fixed secret -> delivered
+        self.assertEqual(code, 0); self.assertTrue(any("A9/26" in s for s in sent))
+    def test_deleted_page_stub_stops_being_fetched(self):
+        st = S.new_state()
+        st["tenders"]["url:nupco.com/tender/dead"] = {"id": "", "url": "https://www.nupco.com/tender/dead/",
+            "title": "dead", "status": "", "deadline": "", "opening": "", "first_seen": "2026-10-01T00:00:00Z",
+            "last_seen": "2026-10-01T00:00:00Z", "notified": {"status": "", "deadline": "", "opening": ""}}
+        resp = mock.Mock(status_code=404)
+        err = S.requests.HTTPError("404 Client Error", response=resp)
+        calls = []
+        def fake_fetch(session, url, **kw):
+            calls.append(url); raise err
+        with mock.patch.object(S, "fetch", side_effect=fake_fetch), \
+             mock.patch.object(S, "rest_candidates", return_value=[]), \
+             mock.patch.object(S, "sitemap_candidates", return_value=[]):
+            for _ in range(5):
+                self.assertEqual(S.discover_extra(None, st, []), [])
+        rec = st["tenders"]["url:nupco.com/tender/dead"]
+        self.assertEqual(len(calls), S.GONE_AFTER_404); self.assertTrue(rec.get("gone"))
+
 if __name__ == "__main__":
     unittest.main(verbosity=1)
