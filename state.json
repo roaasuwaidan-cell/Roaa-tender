@@ -4,10 +4,10 @@
   "failures": 0
  },
  "meta": {
-  "core_sha": "2725b8aeee798a19b4a3a709673371d05662b87d",
+  "core_sha": "1f99d8189ec4725997e7c4ad73fa516a6c5a5592",
   "last_list_count": 23,
-  "last_success": "2026-11-17T08:31:19Z",
-  "last_write": "2026-11-17T08:31:19Z"
+  "last_success": "2026-11-17T08:34:08Z",
+  "last_write": "2026-11-17T08:34:08Z"
  },
  "tenders": {
   "NDP0846/26": {
@@ -1278,7 +1278,7 @@
    "deadline": "",
    "first_seen": "2026-11-02T06:20:16Z",
    "id": "NDP0980-26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1486,7 +1486,7 @@
    "deadline": "",
    "first_seen": "2026-11-09T08:04:05Z",
    "id": "NDP0994/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1502,7 +1502,7 @@
    "deadline": "",
    "first_seen": "2026-11-09T08:04:05Z",
    "id": "NDP0995/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1518,7 +1518,7 @@
    "deadline": "",
    "first_seen": "2026-11-09T18:53:51Z",
    "id": "NDP0996/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1534,7 +1534,7 @@
    "deadline": "",
    "first_seen": "2026-11-09T18:53:51Z",
    "id": "NDP0997/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1614,7 +1614,7 @@
    "deadline": "",
    "first_seen": "2026-11-10T17:55:32Z",
    "id": "NDP1003/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1662,7 +1662,7 @@
    "deadline": "",
    "first_seen": "2026-11-10T17:55:32Z",
    "id": "NDP1006/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1694,7 +1694,7 @@
    "deadline": "",
    "first_seen": "2026-11-10T17:55:32Z",
    "id": "NDP1008-26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1790,7 +1790,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1015/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": null,
    "opening": "",
    "source": "list",
@@ -1802,7 +1802,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1017/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1818,7 +1818,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1018/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1834,7 +1834,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1019/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1850,7 +1850,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1020/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": null,
    "opening": "",
    "source": "offlist",
@@ -1878,7 +1878,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1022-26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1894,7 +1894,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1023/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1910,7 +1910,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1024/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1926,7 +1926,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1025/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1942,7 +1942,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1028/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": null,
    "opening": "",
    "source": "list",
@@ -1954,7 +1954,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1032/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": null,
    "opening": "",
    "source": "list",
@@ -1966,7 +1966,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1033/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": null,
    "opening": "",
    "source": "list",
@@ -1978,7 +1978,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1034/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": null,
    "opening": "",
    "source": "list",
@@ -1990,7 +1990,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1035/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": null,
    "opening": "",
    "source": "list",
@@ -2002,7 +2002,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1036/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": null,
    "opening": "",
    "source": "list",
@@ -2014,7 +2014,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1037-26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": null,
    "opening": "",
    "source": "list",
@@ -3370,7 +3370,7 @@
    "deadline": "Tue, 01/12/2026",
    "first_seen": "2026-11-10T17:55:32Z",
    "id": "NPT0047/26",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "Tue, 01/12/2026",
     "opening": "Wed, 02/12/2026",
@@ -3642,7 +3642,7 @@
    "deadline": "",
    "first_seen": "2026-10-12T19:51:39Z",
    "id": "",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -3658,7 +3658,7 @@
    "deadline": "",
    "first_seen": "2026-10-12T19:51:39Z",
    "id": "",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -3674,7 +3674,7 @@
    "deadline": "",
    "first_seen": "2026-10-13T09:31:17Z",
    "id": "",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -3690,7 +3690,7 @@
    "deadline": "",
    "first_seen": "2026-10-19T10:52:28Z",
    "id": "",
-   "last_seen": "2026-11-17T08:31:19Z",
+   "last_seen": "2026-11-17T08:34:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
