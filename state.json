@@ -4,10 +4,10 @@
   "failures": 0
  },
  "meta": {
-  "core_sha": "fbe90848281e3170d69aebe29f14e3dd33d932a6",
+  "core_sha": "6c95f3b342ae426d105c603caa22f3dc886be406",
   "last_list_count": 24,
-  "last_success": "2026-11-18T10:07:38Z",
-  "last_write": "2026-11-18T10:07:38Z"
+  "last_success": "2026-11-18T18:51:08Z",
+  "last_write": "2026-11-18T18:51:08Z"
  },
  "tenders": {
   "NDP0846/26": {
@@ -1790,7 +1790,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1015/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1806,7 +1806,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T18:33:31Z",
    "id": "NDP1016/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1822,7 +1822,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1017/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1838,7 +1838,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1018/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1870,7 +1870,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1020/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1966,7 +1966,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1028/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1982,7 +1982,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1032/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1998,7 +1998,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1033/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2014,7 +2014,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1034/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2030,7 +2030,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1035/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2046,7 +2046,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1036/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2062,7 +2062,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1037-26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2078,7 +2078,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T18:33:31Z",
    "id": "NDP1038/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2094,7 +2094,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T18:33:31Z",
    "id": "NDP1039/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2106,11 +2106,27 @@
    "title": "تأمين بنود مستلزمات طبية طارئة",
    "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b7%d8%a7%d8%b1%d8%a6%d8%a9/"
   },
+  "NDP1041/26": {
+   "deadline": "",
+   "first_seen": "2026-11-18T18:51:08Z",
+   "id": "NDP1041/26",
+   "last_seen": "2026-11-18T18:51:08Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين مستلزمات طبية عبر",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d8%a9-%d8%b9%d8%a8%d8%b1/"
+  },
   "NDP1042/26": {
    "deadline": "",
    "first_seen": "2026-11-17T18:33:31Z",
    "id": "NDP1042/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2126,7 +2142,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T18:33:31Z",
    "id": "NDP1044/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2142,7 +2158,7 @@
    "deadline": "",
    "first_seen": "2026-11-18T10:07:38Z",
    "id": "NDP1046-26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2158,7 +2174,7 @@
    "deadline": "",
    "first_seen": "2026-11-18T10:07:38Z",
    "id": "NDP1047-26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2174,7 +2190,7 @@
    "deadline": "",
    "first_seen": "2026-11-18T10:07:38Z",
    "id": "NDP1048/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2190,7 +2206,7 @@
    "deadline": "",
    "first_seen": "2026-11-18T10:07:38Z",
    "id": "NDP1049/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2206,7 +2222,7 @@
    "deadline": "",
    "first_seen": "2026-11-18T10:07:38Z",
    "id": "NDP1050/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2222,7 +2238,7 @@
    "deadline": "",
    "first_seen": "2026-11-18T10:07:38Z",
    "id": "NDP1051/26",
-   "last_seen": "2026-11-18T10:07:38Z",
+   "last_seen": "2026-11-18T18:51:08Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2233,6 +2249,22 @@
    "status": "",
    "title": "Commode bariatric custom",
    "url": "https://www.nupco.com/tender/commode-bariatric-custom/"
+  },
+  "NDP1052/26": {
+   "deadline": "",
+   "first_seen": "2026-11-18T18:51:08Z",
+   "id": "NDP1052/26",
+   "last_seen": "2026-11-18T18:51:08Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "تأمين بنود أدوية لموسم الحج عام 1448هـ",
+   "url": "https://www.nupco.com/tender/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ad%d8%ac-%d8%b9%d8%a7%d9%85-1448%d9%87%d9%80/"
   },
   "NPT0001/23": {
    "deadline": "Tue, 06/06/2023",
