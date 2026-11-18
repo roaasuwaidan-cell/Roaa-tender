@@ -4,10 +4,10 @@
   "failures": 0
  },
  "meta": {
-  "core_sha": "18820adc29390c29a99be9a10eabcf05c087e3aa",
+  "core_sha": "fbe90848281e3170d69aebe29f14e3dd33d932a6",
   "last_list_count": 24,
-  "last_success": "2026-11-18T01:36:41Z",
-  "last_write": "2026-11-18T01:36:41Z"
+  "last_success": "2026-11-18T10:07:38Z",
+  "last_write": "2026-11-18T10:07:38Z"
  },
  "tenders": {
   "NDP0846/26": {
@@ -1790,7 +1790,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1015/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1806,7 +1806,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T18:33:31Z",
    "id": "NDP1016/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1822,7 +1822,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1017/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1838,7 +1838,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1018/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1854,7 +1854,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1019/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1870,7 +1870,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1020/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1918,7 +1918,7 @@
    "deadline": "",
    "first_seen": "2026-11-12T12:52:06Z",
    "id": "NDP1023/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1966,7 +1966,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1028/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1982,7 +1982,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1032/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -1998,7 +1998,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1033/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2014,7 +2014,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1034/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2030,7 +2030,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1035/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2046,7 +2046,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1036/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2062,7 +2062,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T08:28:24Z",
    "id": "NDP1037-26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2078,7 +2078,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T18:33:31Z",
    "id": "NDP1038/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2094,7 +2094,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T18:33:31Z",
    "id": "NDP1039/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2110,7 +2110,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T18:33:31Z",
    "id": "NDP1042/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2126,7 +2126,7 @@
    "deadline": "",
    "first_seen": "2026-11-17T18:33:31Z",
    "id": "NDP1044/26",
-   "last_seen": "2026-11-18T01:36:41Z",
+   "last_seen": "2026-11-18T10:07:38Z",
    "notified": {
     "deadline": "",
     "opening": "",
@@ -2137,6 +2137,102 @@
    "status": "",
    "title": "INUPCO – تأمين مستلزمات السوق الإلكتروني من خلال منصة",
    "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d9%85%d8%b3%d8%aa%d9%84%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%85%d9%86-%d8%ae-3/"
+  },
+  "NDP1046-26": {
+   "deadline": "",
+   "first_seen": "2026-11-18T10:07:38Z",
+   "id": "NDP1046-26",
+   "last_seen": "2026-11-18T10:07:38Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني من خلال منصة",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-2/"
+  },
+  "NDP1047-26": {
+   "deadline": "",
+   "first_seen": "2026-11-18T10:07:38Z",
+   "id": "NDP1047-26",
+   "last_seen": "2026-11-18T10:07:38Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "INUPCO – تأمين بنود أدوية لمنصة السوق الالكتروني خلال",
+   "url": "https://www.nupco.com/tender/inupco-%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a8%d9%86%d9%88%d8%af-%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1-4/"
+  },
+  "NDP1048/26": {
+   "deadline": "",
+   "first_seen": "2026-11-18T10:07:38Z",
+   "id": "NDP1048/26",
+   "last_seen": "2026-11-18T10:07:38Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "Ultralight wheelchair 14 custom 02",
+   "url": "https://www.nupco.com/tender/ultralight-wheelchair-14-custom-02/"
+  },
+  "NDP1049/26": {
+   "deadline": "",
+   "first_seen": "2026-11-18T10:07:38Z",
+   "id": "NDP1049/26",
+   "last_seen": "2026-11-18T10:07:38Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "Ultralight wheelchair 16 custom07",
+   "url": "https://www.nupco.com/tender/ultralight-wheelchair-16-custom07/"
+  },
+  "NDP1050/26": {
+   "deadline": "",
+   "first_seen": "2026-11-18T10:07:38Z",
+   "id": "NDP1050/26",
+   "last_seen": "2026-11-18T10:07:38Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "Ultralight wheelchair 16 custom08",
+   "url": "https://www.nupco.com/tender/ultralight-wheelchair-16-custom08/"
+  },
+  "NDP1051/26": {
+   "deadline": "",
+   "first_seen": "2026-11-18T10:07:38Z",
+   "id": "NDP1051/26",
+   "last_seen": "2026-11-18T10:07:38Z",
+   "notified": {
+    "deadline": "",
+    "opening": "",
+    "status": ""
+   },
+   "opening": "",
+   "source": "list",
+   "status": "",
+   "title": "Commode bariatric custom",
+   "url": "https://www.nupco.com/tender/commode-bariatric-custom/"
   },
   "NPT0001/23": {
    "deadline": "Tue, 06/06/2023",
